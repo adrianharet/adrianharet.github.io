@@ -3,7 +3,7 @@ title: "The Wisdom of Interacting Crowds"
 date: 2023-10-25 14:0:00 +0000
 categories: [Talk]
 tags: [wisdom_of_crowds]     # TAG names should always be lowercase
-toc: false
+toc: true
 ---
 
 This is a talk given at the MCMP in Munich during the weekly research seminar.
