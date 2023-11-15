@@ -32,9 +32,17 @@ and the mechanisms involved in its emergence and continued viability.
 2. Discuss the game theory of specialization based on caste in eusocial insects (e.g., bees or ants). See [2].
 
 # Bibliography
-1. Ridley, M. (1997). *The Origins of Virtue: Human Instincts and the Evolution of Cooperation*. Penguin.
-2. Ratnieks, F. L. W., Foster, K. R., & Wenseleers, T. (2006). Conflict resolution in insect societies. *Annual Review of Entomology*, 51, 581–608.
-3. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
-4. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
-5. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
-6. Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. (2015). Cancer across the tree of life: cooperation and cheating in multicellularity. *Philosophical Transactions of the Royal Society of London*, 370(1673).
+1. Wilkinson, G. S. (1984). Reciprocal food sharing in the vampire bat. *Nature*, 308(5955), 181–184.
+2. Ridley, M. (1997). *The Origins of Virtue: Human Instincts and the Evolution of Cooperation*. Penguin.
+3. Roberts, G., & Sherratt, T. N. (1998). Development of cooperative relationships through increasing investment. *Nature*, 394(6689), 175–179.
+4. Sachs, J. L., Mueller, U. G., Wilcox, T. P., & Bull, J. J. (2004). The evolution of cooperation. *The Quarterly Review of Biology*, 79(2), 135–160.
+5. Nowak, M. A., & Sigmund, K. (2005). Evolution of indirect reciprocity. *Nature*, 437(7063), 1291–1298.
+6. Ratnieks, F. L. W., Foster, K. R., & Wenseleers, T. (2006). Conflict resolution in insect societies. *Annual Review of Entomology*, 51, 581–608.
+7. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+8. Nowak, M. A. (2006). Five rules for the evolution of cooperation. *Science*, 314(5805), 1560–1563.
+9. Gächter, S., Herrmann, B., & Thöni, C. (2010). Culture and cooperation. P*hilosophical Transactions of the Royal Society of London*, 365(1553), 2651–2661.
+10. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
+11. Rand, D. G., & Nowak, M. A. (2013). Human cooperation. *Trends in Cognitive Sciences*, 17(8), 413–425.
+12. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
+13. Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. (2015). Cancer across the tree of life: cooperation and cheating in multicellularity. *Philosophical Transactions of the Royal Society of London*, 370(1673).
+14. Carter, G. G., Farine, D. R., Crisp, R. J., Vrtilek, J. K., Ripperger, S. P., & Page, R. A. (2020). Development of New Food-Sharing Relationships in Vampire Bats. *Current Biology*, 30(7), 1275–1279.
