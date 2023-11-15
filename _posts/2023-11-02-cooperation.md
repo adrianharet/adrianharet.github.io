@@ -24,7 +24,7 @@ and the mechanisms involved in its emergence and continued viability.
     [Canva](https://www.canva.com/design/DAFx_KtEq_U/0mEIhNleZhJVPCfz1A1ytA/edit?utm_content=DAFx_KtEq_U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 2. Game Theory 101: Stags, Prisoners and Equilibria
-    [[pdf](/content/teaching/2023-cooperation/02-game-theory-101.pdfs), 
+    [[pdf](/content/teaching/2023-cooperation/02-game-theory-101.pdf), 
     [Canva](https://www.canva.com/design/DAFzOKO9X-M/6sjGgFbUhCDo7TcOBSSl_Q/edit?utm_content=DAFzOKO9X-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 # Research Questions For the Final Assignment
