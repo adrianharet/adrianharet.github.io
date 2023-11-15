@@ -27,9 +27,14 @@ and the mechanisms involved in its emergence and continued viability.
     [Canva](https://www.canva.com/design/DAFzOKO9X-M/6sjGgFbUhCDo7TcOBSSl_Q/edit?utm_content=DAFzOKO9X-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
 # Research Questions For the Final Assignment
+1. Create a schematic model of the game theory of cancer. Discuss the assumptions behind it, and the consequences for
+    the host organism. See [4, 6].
+2. Discuss the game theory of specialization based on caste in eusocial insects (e.g., bees or ants). See [2].
 
 # Bibliography
 1. Ridley, M. (1997). *The Origins of Virtue: Human Instincts and the Evolution of Cooperation*. Penguin.
-2. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
-3. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
-4. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
+2. Ratnieks, F. L. W., Foster, K. R., & Wenseleers, T. (2006). Conflict resolution in insect societies. *Annual Review of Entomology*, 51, 581–608.
+3. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+4. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
+5. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
+6. Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. (2015). Cancer across the tree of life: cooperation and cheating in multicellularity. *Philosophical Transactions of the Royal Society of London*, 370(1673).
