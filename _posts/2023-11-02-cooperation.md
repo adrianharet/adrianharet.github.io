@@ -6,7 +6,6 @@ tags: [game_theory]     # TAG names should always be lowercase
 toc: true
 ---
 
-# Description
 
 In a world of self-interested individuals, does cooperation makes sense? 
 The course will explore the phenomenon of cooperation: 
