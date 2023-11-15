@@ -29,9 +29,7 @@ and the mechanisms involved in its emergence and continued viability.
 # Research Questions For the Final Assignment
 
 # Bibliography
-
 1. Ridley, M. (1997). *The Origins of Virtue: Human Instincts and the Evolution of Cooperation*. Penguin.
-2. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
-3. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+2. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+3. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
 4. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
-5. 
