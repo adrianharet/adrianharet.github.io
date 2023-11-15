@@ -16,17 +16,18 @@ My interests lie in Social Choice, Belief Change and, more generally,
 what it means for individuals and groups to be rational.
 
 
-# Experience 
 
-2023-    :  Assistant Professor at the MCMP, LMU Munich
-2020-2023:  Postdoc at the ILLC, University of Amsterdam\
-2014-2020:	PhD in Theoretical Computer Science, TU Wien\
-2012-2014:	MSc in Computational Logic, TU Wien/TU Dresden/FU Bolzano within the (sadly now terminated) EMCL program\
-2010-2012:	MA in Theoretical Philosophy and Philosophy of Science, University of Bucharest\
-2010-2012:	BSc in Mathematics, University of Bucharest (discontinued for EMCL purposes)\
-2007-2010:	BA in Theoretical Philosophy, University of Bucharest\
-2003-2007:	High school, Mihai Eminescu High School, Botosani, Romania\
-1999-2003:	Middle school, School Nr. 7, Botosani, Romania\
-1995-1999:	Primary school, School Nr. 11, Botosani, Romania\
-1993-1995:	Kindergarten, Kindergarten Nr. 9 and Nr. 2, Botosani, Romania\
-1988-1993:	No school, Botosani, Romania
+| Experience         |         |
+| -------- | ------- |
+| 2023-    |   Assistant Professor at the MCMP, LMU Munich|
+|2020-2023 |  Postdoc at the ILLC, University of Amsterdam|
+|2014-2020 |	PhD in Theoretical Computer Science, TU Wien|
+|2012-2014 |	MSc in Computational Logic, TU Wien/TU Dresden/FU Bolzano within the (sadly now terminated) EMCL program|
+|2010-2012 |	MA in Theoretical Philosophy and Philosophy of Science, University of Bucharest|
+|2010-2012 |	BSc in Mathematics, University of Bucharest (discontinued for EMCL purposes)|
+|2007-2010 |	BA in Theoretical Philosophy, University of Bucharest|
+|2003-2007 |	High school, Mihai Eminescu High School, Botosani, Romania|
+|1999-2003 |	Middle school, School Nr. 7, Botosani, Romania|
+|1995-1999 |	Primary school, School Nr. 11, Botosani, Romania|
+|1993-1995 |	Kindergarten, Kindergarten Nr. 9 and Nr. 2, Botosani, Romania|
+|1988-1993 |	No school, Botosani, Romania
