@@ -6,7 +6,6 @@ tags: [deliberation,wisdom_of_crowds]     # TAG names should always be lowercase
 toc: false
 ---
 
-
 Julian Chingoma, Adrian Haret. 
 [Deliberation as Evidence Disclosure: A Tale of Two Protocol Types](https://www.ijcai.org/proceedings/2023/0288.pdf). 
 IJCAI 2023.
