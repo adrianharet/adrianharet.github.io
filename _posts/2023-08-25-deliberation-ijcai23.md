@@ -6,11 +6,11 @@ tags: [deliberation,wisdom_of_crowds]     # TAG names should always be lowercase
 toc: false
 ---
 
-Our paper on deliberation was accepted at IJCAI 2023, in Macao,
-and presented by [Julian](https://staff.science.uva.nl/j.z.chingoma/) via a recorded talk!
 
 Julian Chingoma, Adrian Haret. 
-Deliberation as Evidence Disclosure: A Tale of Two Protocol Types. 
+[Deliberation as Evidence Disclosure: A Tale of Two Protocol Types](https://www.ijcai.org/proceedings/2023/0288.pdf). 
 IJCAI 2023.
-[[pdf preprint](/content/papers/2023-ijcai-deliberation.pdf),
-    [video](https://ijcai-23.org/video/?vid=39005350)]
+
+Also check out 
+the [recorded talk]((https://ijcai-23.org/video/?vid=39005350))
+ by [Julian](https://staff.science.uva.nl/j.z.chingoma/)!
