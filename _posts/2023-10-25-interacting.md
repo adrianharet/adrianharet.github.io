@@ -1,6 +1,6 @@
 ---
 title: "The Wisdom of Interacting Crowds"
-date: 2023-10-25 14:0:00 +0000
+date: 2023-10-25 14:00:00 +0000
 categories: [Talk]
 tags: [wisdom_of_crowds]     # TAG names should always be lowercase
 toc: true
