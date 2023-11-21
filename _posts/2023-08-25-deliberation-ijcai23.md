@@ -9,7 +9,7 @@ toc: false
 Our paper on deliberation was accepted at IJCAI 2023, in Macao,
 and presented by [Julian](https://staff.science.uva.nl/j.z.chingoma/) via a recorded talk!
 
-Julian Chingom, Adrian Haret. 
+Julian Chingoma, Adrian Haret. 
 Deliberation as Evidence Disclosure: A Tale of Two Protocol Types. 
 IJCAI 2023.
 [[pdf preprint]([pdf](/content/papers/2023-ijcai-deliberation.pdf)),
