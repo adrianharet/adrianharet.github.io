@@ -11,6 +11,5 @@ Julian Chingoma, Adrian Haret.
 [Deliberation as Evidence Disclosure: A Tale of Two Protocol Types](https://www.ijcai.org/proceedings/2023/0288.pdf). 
 IJCAI 2023.
 
-Also check out 
-the [recorded talk]((https://ijcai-23.org/video/?vid=39005350))
- by [Julian](https://staff.science.uva.nl/j.z.chingoma/)!
+Also check out the [recorded talk](https://ijcai-23.org/video/?vid=39005350)
+by [Julian](https://staff.science.uva.nl/j.z.chingoma/)!
