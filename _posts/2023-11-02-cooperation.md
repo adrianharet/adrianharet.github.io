@@ -12,6 +12,13 @@ The course will explore the phenomenon of cooperation:
 how it might arise under a set of precise, concrete assumptions about the individuals of a society, 
 and the mechanisms involved in its emergence and continued viability. 
 
+
+# Announcements
+Quick reminder that the November 23 lecture will be on Zoom, 
+at [this](https://uva-live.zoom.us/j/3387430531) link. 
+Join at 14:15, or a minute or two earlier!
+
+
 # Lectures
 
 0. Logistics
