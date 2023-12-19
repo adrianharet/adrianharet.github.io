@@ -33,6 +33,10 @@ Join at 14:15, or a minute or two earlier!
     [[pdf](/content/teaching/2023-cooperation/02-game-theory-101.pdf), 
     [Canva](https://www.canva.com/design/DAFzOKO9X-M/6sjGgFbUhCDo7TcOBSSl_Q/edit?utm_content=DAFzOKO9X-M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 
+2. Iterated Games
+    [[pdf](/content/teaching/2023-cooperation/03-iterated-games.pdf), 
+    [Canva](https://www.canva.com/design/DAF0U3qvG-Q/3lyMHoC2fkIkQCBglvTvCw/edit?utm_content=DAF0U3qvG-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+
 # Research Questions For the Final Assignment
 1. Create a schematic model of the game theory of cancer. Discuss the assumptions behind it, and the consequences for
     the host organism. See [4, 6].
