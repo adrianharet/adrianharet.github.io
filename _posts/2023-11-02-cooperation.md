@@ -41,7 +41,7 @@ Join at 14:15, or a minute or two earlier!
 1. Create a schematic model of the game theory of cancer. Discuss the assumptions behind it, and the consequences for
     the host organism. See [4, 6].
 2. Discuss the game theory of specialization based on caste in eusocial insects (e.g., bees or ants). See [2].
-3. Reciprocity in the natural world. See [1, 3].
+3. Reciprocity in the natural world. See, for instance, [1, 3].
 
 # Bibliography
 1. Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. *The Quarterly Review of Biology*, 46(1), 35–57.
