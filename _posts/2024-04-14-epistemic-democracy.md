@@ -2,7 +2,7 @@
 title: "Informed Choices, Inclusive Voices: Epistemic Journeys in Democratic Decision Making"
 date: 2024-04-14 00:00:00 +0000
 categories: [Course]
-tags: [social choice, wisdom of crowds]     # TAG names should always be lowercase
+tags: [social_choice,wisdom_of_crowds]     # TAG names should always be lowercase
 toc: true
 ---
 
