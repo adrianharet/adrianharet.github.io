@@ -25,7 +25,8 @@ can go wrong through misinformation, polarization or the systematic suppression 
 4. Surowiecki, J. (2005). *The Wisdom of Crowds*. Anchor.
 5. Anderson, E. (2006). The epistemology of democracy. *Episteme*, 3(1–2), 8–22
 6. Caplan, B. (2007). *The Myth of the Rational Voter: Why Democracies Choose Bad Policies*. Princeton University Press.
-7. Landemore, H. (2013). Deliberation, cognitive diversity, and democratic inclusiveness: an epistemic argument for the random selection of representatives. *Synthese*, 190, 1209–1231
-8. Landemore, H. (2013). *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*. Princeton University Press.
-9. Thompson, A. (2014). Does Diversity Trump Ability?. *Notices of the AMS*, 61(9).
-10. Dietrich, F., & Spiekermann, K. (2022). [Jury Theorems](https://plato.stanford.edu/archives/sum2022/entries/jury-theorems/). In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Summer 2022). Metaphysics Research Lab, Stanford University.
+7. Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. *American Economic Journal: Microeconomics*, 2(1), 112–149.
+8. Landemore, H. (2013). Deliberation, cognitive diversity, and democratic inclusiveness: an epistemic argument for the random selection of representatives. *Synthese*, 190, 1209–1231
+9. Landemore, H. (2013). *Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*. Princeton University Press.
+10. Thompson, A. (2014). Does Diversity Trump Ability?. *Notices of the AMS*, 61(9).
+11. Dietrich, F., & Spiekermann, K. (2022). [Jury Theorems](https://plato.stanford.edu/archives/sum2022/entries/jury-theorems/). In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Summer 2022). Metaphysics Research Lab, Stanford University.
