@@ -41,7 +41,9 @@ Join at 14:15, or a minute or two earlier!
 1. Create a schematic model of the game theory of cancer. Discuss the assumptions behind it, and the consequences for
     the host organism. See [4, 6].
 2. Discuss the game theory of specialization based on caste in eusocial insects (e.g., bees or ants). See [2].
-3. Reciprocity in the natural world. See, for instance, [1, 3].
+3. How does Tit-For-Tat work in a repeated Prisoner's Dilemma? Is it an equilibrium?
+4. Reciprocity in the natural world. See, for instance, [1, 3].
+5. How can we study altruism in people using economic games? And how do people perform in these games?
 
 # Bibliography
 1. Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. *The Quarterly Review of Biology*, 46(1), 35–57.
@@ -54,7 +56,7 @@ Join at 14:15, or a minute or two earlier!
 8. Ratnieks, F. L. W., Foster, K. R., & Wenseleers, T. (2006). Conflict resolution in insect societies. *Annual Review of Entomology*, 51, 581–608.
 9. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
 10. Nowak, M. A. (2006). Five rules for the evolution of cooperation. *Science*, 314(5805), 1560–1563.
-11. Gächter, S., Herrmann, B., & Thöni, C. (2010). Culture and cooperation. P*hilosophical Transactions of the Royal Society of London*, 365(1553), 2651–2661.
+11. Gächter, S., Herrmann, B., & Thöni, C. (2010). Culture and cooperation. *Philosophical Transactions of the Royal Society of London*, 365(1553), 2651–2661.
 12. Nowak, M., & Highfield, R. (2011). *SuperCooperators: Altruism, Evolution, and Why We Need Each Other to Succeed*. Simon and Schuster.
 13. Rand, D. G., & Nowak, M. A. (2013). Human cooperation. *Trends in Cognitive Sciences*, 17(8), 413–425.
 14. Hummert, S., Bohl, K., Basanta, D., Deutsch, A., Werner, S., Theissen, G., Schroeter, A., & Schuster, S. (2014). Evolutionary game theory: cells as players. *Molecular bioSystems*, 10(12), 3044–3065.
