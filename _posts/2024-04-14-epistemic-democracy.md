@@ -15,6 +15,11 @@ can go wrong through misinformation, polarization or the systematic suppression 
 
 
 # Lectures
+0. Logistics 
+    [[pdf](/content/teaching/2024-epistemic-democracy/00-logistics.pdf)]
+
+1. The Wisdom of Crowds 
+    [[pdf](/content/teaching/2024-epistemic-democracy/01-wisdom-of-crowds.pdf)]
 
 
 # Bibliography

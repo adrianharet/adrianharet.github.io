@@ -16,6 +16,11 @@ The course aims to equip students with a nuanced understanding of cooperation, r
 
 
 # Lectures
+0. Logistics 
+    [[pdf](/content/teaching/2024-strategic-minds/00-logistics.pdf)]
+
+1. The Wisdom of Crowds 
+    [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
 
 
 # Bibliography
