@@ -21,6 +21,9 @@ can go wrong through misinformation, polarization or the systematic suppression 
 1. The Wisdom of Crowds 
     [[pdf](/content/teaching/2024-epistemic-democracy/01-wisdom-of-crowds.pdf)]
 
+2. The Condorcet Jury THeorem
+    [[pdf](/content/teaching/2024-epistemic-democracy/02-cjt.pdf)]
+
 
 # Bibliography
 
