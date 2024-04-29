@@ -22,6 +22,9 @@ The course aims to equip students with a nuanced understanding of cooperation, r
 1. The Problem of Cooperation
     [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
 
+2. Game Theory 101
+    [[pdf](/content/teaching/2024-strategic-minds/01-game-theory-101.pdf)]
+
 
 # Bibliography
 1. Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. *The Quarterly Review of Biology*, 46(1), 35–57.
