@@ -23,7 +23,10 @@ The course aims to equip students with a nuanced understanding of cooperation, r
     [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
 
 2. Game Theory 101
-    [[pdf](/content/teaching/2024-strategic-minds/01-game-theory-101.pdf)]
+    [[pdf](/content/teaching/2024-strategic-minds/02-game-theory-101.pdf)]
+
+3. Does Cooperation Survive In a World of Competing Strategies?
+    [[pdf](/content/teaching/2024-strategic-minds/03-game-theory-101.pdf)]
 
 
 # Bibliography
