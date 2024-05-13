@@ -60,6 +60,16 @@ Zimin presents Axelrod (1980) and Section 5.2 of Nowak (2006), see below.
 1. Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. *The Quarterly Review of Biology*, 46(1), 35–57.
 2. Axelrod, R. (1980). Effective Choice in the Prisoner’s Dilemma. *The Journal of Conflict Resolution*, 24(1), 3–25.
 3. Alexander, R. (1987). *The Biology of Moral Systems* (Chapter 2). Transaction Publishers.
-4. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
-5. Dugatkin, L. A. (2020). *Principles of Animal Behavior, 4th Edition* (Chapter 9). The University of Chicago Press.
-6. Nowak, M. A. (2006). *Evolutionary Dynamics: Exploring the Equations of Life*. Harvard University Press.
+4. Fehr, E., & Gächter, S. (2002). Altruistic punishment in humans. *Nature*, 415(6868), 137–140.
+5. Dietz, T., Ostrom, E., & Stern, P. C. (2003). The struggle to govern the commons. *Science*, 302(5652), 1907–1912.
+6. Fehr, E., & Fischbacher, U. (2004). Social norms and human cooperation. *Trends in Cognitive Sciences*, 8(4), 185–190.
+7. Nowak, M. A., & Sigmund, K. (2005). Evolution of indirect reciprocity. *Nature*, 437(7063), 1291–1298.
+8. Nowak, M. A. (2006). Five rules for the evolution of cooperation. *Science*, 314(5805), 1560–1563.
+9. Nowak, M. A. (2006). *Evolutionary Dynamics: Exploring the Equations of Life*. Harvard University Press.
+10. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+11. West, S. A., Griffin, A. S., & Gardner, A. (2007). Social semantics: altruism, cooperation, mutualism, strong reciprocity and group selection. *Journal of Evolutionary Biology*, 20(2), 415–432.
+12. West, S. A., El Mouden, C., & Gardner, A. (2011). Sixteen common misconceptions about the evolution of cooperation in humans. *Evolution and Human Behavior*, 32(4), 231–262.
+13. Rand, D. G., & Nowak, M. A. (2013). Human cooperation. *Trends in Cognitive Sciences*, 17(8), 413–425.
+14. Tomasello, M., & Vaish, A. (2013). Origins of human cooperation and morality. Annual Review of Psychology, 64, 231–255.
+15. Dugatkin, L. A. (2020). *Principles of Animal Behavior, 4th Edition* (Chapter 9). The University of Chicago Press.
+16. Henrich, J., & Muthukrishna, M. (2021). The Origins and Psychology of Human Cooperation. *Annual Review of Psychology*, 72, 207–240.
