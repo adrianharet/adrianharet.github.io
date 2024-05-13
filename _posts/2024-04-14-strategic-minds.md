@@ -22,7 +22,7 @@ We started out by introducing ourselves, followed by a breakdown of the logistic
 [[pdf](/content/teaching/2024-strategic-minds/00-logistics.pdf)]
 
 We then got our first glimpse of game theory, by playing a variant of the 
-<a href="https://en.wikipedia.org/wiki/Guess_2/3_of_the_average">Guess 2/3-Of-the-Average</a> game.
+<a href="https://en.wikipedia.org/wiki/Guess_2/3_of_the_average">Guess-2/3-Of-the-Average</a> game.
 
 This was followed by a lecture on the problem of cooperation. [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
 
