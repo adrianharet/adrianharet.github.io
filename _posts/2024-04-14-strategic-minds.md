@@ -16,21 +16,50 @@ The course aims to equip students with a nuanced understanding of cooperation, r
 
 
 # Lectures
-0. Logistics 
-    [[pdf](/content/teaching/2024-strategic-minds/00-logistics.pdf)]
 
-1. The Problem of Cooperation
-    [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
+## Week 1 (April 15, 2024)
+We started out by introducing ourselves, followed by a breakdown of the logistics of the course. 
+[[pdf](/content/teaching/2024-strategic-minds/00-logistics.pdf)]
 
-2. Game Theory 101
-    [[pdf](/content/teaching/2024-strategic-minds/02-game-theory-101.pdf)]
+We then got our first glimpse of game theory, by playing a variant of the 
+<a href="https://en.wikipedia.org/wiki/Guess_2/3_of_the_average">Guess 2/3-Of-the-Average</a> game.
 
-3. Does Cooperation Survive In a World of Competing Strategies?
-    [[pdf](/content/teaching/2024-strategic-minds/03-mixed-and-ess.pdf)]
+This was followed by a lecture on the problem of cooperation. [[pdf](/content/teaching/2024-strategic-minds/01-the-problem-of-cooperation.pdf)]
 
+## Week 2 (April 22, 2024)
+This was a lecture on basic concepts of game theory:
+what a game in normal form is, the Prisoner's Dilemma, (pure) Nash equilibria, Pareto optimality. 
+[[pdf](/content/teaching/2024-strategic-minds/02-game-theory-101.pdf)]    
+
+We also played the Trust Game and discussed notions that are not captured by the basic formalism of game theory, 
+e.g., trust and gratitude.
+
+## Week 3 (April 29, 2024)
+We talked about mixed Nash equilibria and Evolutionarily Stable Strategies (ESSs).
+Even more trouble for cooperation.
+[[pdf](/content/teaching/2024-strategic-minds/03-mixed-and-ess.pdf)]
+
+Also, check out <a href="https://www.youtube.com/watch?v=IPobRaUie18">this TED talk</a> 
+by Colin Camerer to see, among other things, how chimpanzees are better at randomizing than humans.
+
+## Week 4 (May 6, 2024)
+Games in extensive form, and the repeated Prisoner's Dilemma.
+We got our first positive result regarding cooperation using the infinitely repeated version of the game.
+Though it is debatable how optimistic the outlook here really is:
+do we really want to rely on Grim Trigger to motivate cooperation?
+[[pdf](/content/teaching/2024-strategic-minds/04-repeated-games.pdf)]
+
+Also, The Ultimatum Game: how will you share your chocolates with everyone else? 
+The answer might surprise you!
+
+## Week 5 (May 13, 2024)
+We go deeper into the world of repeated games: Axelrod's tournament and Tit-For-Tat supremacy.
+Zimin presents Axelrod (1980) and Section 5.2 of Nowak (2006), see below.
 
 # Bibliography
 1. Trivers, R. L. (1971). The Evolution of Reciprocal Altruism. *The Quarterly Review of Biology*, 46(1), 35–57.
-2. Alexander, R. (1987). *The Biology of Moral Systems* (Chapter 2). Transaction Publishers.
-3. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
-4. Dugatkin, L. A. (2020). *Principles of Animal Behavior, 4th Edition* (Chapter 9). The University of Chicago Press.
+2. Axelrod, R. (1980). Effective Choice in the Prisoner’s Dilemma. *The Journal of Conflict Resolution*, 24(1), 3–25.
+3. Alexander, R. (1987). *The Biology of Moral Systems* (Chapter 2). Transaction Publishers.
+4. Axelrod, R. (2006). *The Evolution of Cooperation: Revised Edition*. Basic Books.
+5. Dugatkin, L. A. (2020). *Principles of Animal Behavior, 4th Edition* (Chapter 9). The University of Chicago Press.
+6. Nowak, M. A. (2006). *Evolutionary Dynamics: Exploring the Equations of Life*. Harvard University Press.
