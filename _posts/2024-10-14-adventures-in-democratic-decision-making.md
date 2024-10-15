@@ -20,12 +20,13 @@ There will also be additional material on recent developments and trends.
 
 ## Week 1 (October 14, 2024)
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
-[[pdf](/content/teaching/2024-2025-adventures-in-democratic-decision-making/00-logistics.pdf)]
 
 We then have our first glimpse of social choice theory,
 and two ways of thinking about voting: 
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
-versus as a procedure for aggregating preferences into an expression of what voters want (non-epistemic voting)G.
+versus as a procedure for aggregating preferences into an expression of what voters want (non-epistemic voting).
+
+Slides are available online [[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/00-logistics.pdf)].
 
 ## Week 2 (October 21, 2024)
 We look at an early example of a functioning democracy: Ancient Athens.
