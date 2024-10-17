@@ -17,6 +17,9 @@ The book doubles as a an introduction to agent-based modeling,
 but no coding experience is needed, or assumed, for the course. 
 Our primary focus will be the models themselves and what they tell us about reality.
 
+# Announcements
+By popular demand, we will be starting the classes at 18:00 sharp, 
+rather than with the customary 15 minute delay. 
 
 # Lectures
 
