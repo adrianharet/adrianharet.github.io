@@ -21,12 +21,14 @@ Our primary focus will be the models themselves and what they tell us about real
 # Lectures
 
 ## Week 1 (October 15, 2024)
-We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
+We start out by introducing ourselves, followed by a breakdown of the logistics of the course.
+Details are found on the slides, [here](/content/teaching/2024-2025-model-agents/00-logistics.pdf).
 
-Slides are online [here](/content/teaching/2024-2025-model-agents/00-logistics.pdf).
+We followed with a discussion on models in science, and a glimpse of the Netlogo modeling language.
+Slides are [here](/content/teaching/2024-2025-model-agents/01-why-model.pdf).
 
 ## Week 2 (October 22, 2024)
-
+We will be discussing Chapter 1 of Smaldino's book.
 
 # Bibliography
 1. Smaldino, P. (2023). Modeling Social Behavior. Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution. Princeton University Press.
