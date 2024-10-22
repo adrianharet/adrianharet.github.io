@@ -20,13 +20,15 @@ There will also be additional material on recent developments and trends.
 
 ## Week 1 (October 14, 2024)
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
+Main points are summarized in the slides, 
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-1-logistics.pdf).
 
 We then have our first glimpse of social choice theory,
 and two ways of thinking about voting: 
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
 versus as a procedure for aggregating preferences into an expression of what voters want (non-epistemic voting).
+Slides [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-2-voting-epistemic-nonepistemic.pdf).
 
-Slides are online [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/00-logistics.pdf).
 
 ## Week 2 (October 21, 2024)
 We look at an early example of a functioning democracy: Ancient Athens.
@@ -36,6 +38,17 @@ local thinker and would-be advisor to kings called Plato.
 The readings are Chapter 3 of Lane (2014), for an overview of democratic Athens, 
 and Chapter 1 from Szpiro (2010) for Plato's alternative.
 As a bonus reading, also have a look at Chapter 4 of Melissa Lane's book.
+
+Adrian's slides for how Athenian democracy functioned are 
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-1-athenian-democracy.pdf).
+Nestor's slides for Plato's alternative, based on Szpiro's book, are 
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-2-nestor-antidemocrat.pdf).
+
+
+## Week 3 (October 28, 2024)
+We start getting into the weeds of voting, with an early example of trying to manipulate a collective decision.
+
+The reading is Chapter 2 of Szpiro (2010), and Victoria will be leading the discussion.
 
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
