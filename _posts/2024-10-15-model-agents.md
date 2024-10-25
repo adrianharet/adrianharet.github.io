@@ -36,6 +36,7 @@ The goal was to arrive at a working model for flocking in birds.
 We saw how building a model involves starting simple (in Smldino's words, doing 'violence to reality') 
 and building things up to the desired effect. 
 We also saw how just a few rules can already deliver believable features from the real world.
+The slides are [here](/content/teaching/2024-2025-model-agents/02-flocking.pdf).
 
 Historically, one of the first examples of a working flocking algorithm was the Boids model.
 For a quick and intuitive overview of this model, watch 
