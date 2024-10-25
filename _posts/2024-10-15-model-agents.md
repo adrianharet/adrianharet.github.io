@@ -31,7 +31,31 @@ We followed with a discussion on models in science, and a glimpse of the Netlogo
 Slides are [here](/content/teaching/2024-2025-model-agents/01-why-model.pdf).
 
 ## Week 2 (October 22, 2024)
-We will be discussing Chapter 1 of Smaldino's book.
+We covered Chapters 1 and 2 of Smaldino's book. 
+The goal was to arrive at a working model for flocking in birds.
+We saw how building a model involves starting simple (in Smldino's words, doing 'violence to reality') 
+and building things up to the desired effect. 
+We also saw how just a few rules can already deliver believable features from the real world.
+
+Historically, one of the first examples of a working flocking algorithm was the Boids model.
+For a quick and intuitive overview of this model, watch 
+[this YouTube video](https://www.youtube.com/watch?v=4LWmRuB-uNU).
+
+Beatrice pointed out that this is similar to the [Vicsek model](https://en.wikipedia.org/wiki/Vicsek_model) studied by physicists.
+
+There is a great deal of research on how various animals (insects, fish) coordinate their movement.
+Sumpter (2010) is a textbook-style work that covers a lot of this.
+For brief overviews, see Couzin (2007, 2009).
+For a nice glimpse into the research going on this topic in nearby Konstanz, 
+check out [this talk](https://www.youtube.com/watch?v=LTVx93IV8Hs) by Iain Couzin himself.
+
+## Week 3 (October 29, 2024)
+We study Chapter 3 of Smaldino (2023), which covers the Schelling model of segregation.
+This is a model that is more relevant to human social behavior.
+
 
 # Bibliography
-1. Smaldino, P. (2023). Modeling Social Behavior. Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution. Princeton University Press.
+1. Couzin, I. D. (2007). Collective minds. Nature, 445(7129), 715.
+2. Couzin, I. D. (2009). Collective cognition in animal groups. Trends in Cognitive Sciences, 13(1), 36–43.
+3. Sumpter, D. J. T. (2010). Collective Animal Behavior. Princeton University Press.
+4. Smaldino, P. (2023). Modeling Social Behavior. Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution. Princeton University Press.
