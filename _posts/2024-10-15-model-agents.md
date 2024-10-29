@@ -52,8 +52,18 @@ check out [this talk](https://www.youtube.com/watch?v=LTVx93IV8Hs) by Iain Couzi
 
 ## Week 3 (October 29, 2024)
 We study Chapter 3 of Smaldino (2023), which covers the Schelling model of segregation.
-This is a model that is more relevant to human social behavior.
+This is a model that is more relevant to human social behavior, and provides a mechanism
+for generating segregated communities based on local, individual actions rather than 
+top-down decisions imposed by an authority.
 
+Slides are [here](/content/teaching/2024-2025-model-agents/03-schelling-segregation.pdf).
+
+If you want to play around with the Schelling model, check out Nicky Case's implementation 
+[here](https://ncase.me/polygons/).
+
+
+## Week 3 (November 5, 2024)
+We study Chapter 4 of Smaldino (2024).
 
 # Bibliography
 1. Couzin, I. D. (2007). Collective minds. Nature, 445(7129), 715.
