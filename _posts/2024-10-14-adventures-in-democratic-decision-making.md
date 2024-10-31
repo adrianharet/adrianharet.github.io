@@ -46,9 +46,25 @@ Nestor's slides for Plato's alternative, based on Szpiro's book, are
 
 
 ## Week 3 (October 28, 2024)
-We start getting into the weeds of voting, with an early example of trying to manipulate a collective decision.
-
+We start getting into the weeds of voting, with an early example of trying 
+to manipulate a collective decision: the trial of Afranius Dexter's purported killers, 
+as reported by Pliny the Younger. 
 The reading is Chapter 2 of Szpiro (2010), and Victoria will be leading the discussion.
+
+The takeaway from this week is that the rule used to determine the outcome of such a collective decision
+(plurality, or First-Past-the-Post) encourages tactical voting. Why? Because the outcome using this rule
+often mis-represents the preferences of the voters. There is a real possibility that the winner is hated
+by most of the voters, and the the upshot is that voters will be strategic about how they place their votes.
+
+This is a broad phenomenon that afflicts many modern elections, not just trials in the Ancient world.
+Adrian's slides are
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-2-plurality-manipulation.pdf).
+
+## Week 4 (November 4)
+We will be reading Chapter 3 of Szpiro (2010), and hear about a voting rule proposed by the Catalan 
+thinker Ramon Llull.
+
+Nicola will be presenting.
 
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
