@@ -81,7 +81,7 @@ Nicola is presenting. Her slides are
 [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/04-01-nicola-the-mystic.pdf).
 
 ## Week 5 (November 11, 2024)
-We will be looking at Chapter 4 of Szpiro (2010).
+We will be looking at Chapter 4 of Szpiro (2010). Lena is presenting.
 
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
