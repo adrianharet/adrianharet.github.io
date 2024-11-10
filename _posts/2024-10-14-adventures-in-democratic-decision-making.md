@@ -66,7 +66,7 @@ Trying to find the most perfect way of electing an abbess, Llull put forward, ar
 not one, but two (!) voting rules.
 The first is based on counting the number of wins each candidate gets in pairwise contests with the other candidates,
 and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
-Apart from the technicality of ties, which Lull hand-waived away, this problem takes up a lot of time and resources:
+Apart from the technicality of ties, which Llull hand-waived away, this problem takes up a lot of time and resources:
 we need to run an election for every possible pair of candidates. 
 For 9 candidates, which was the number Llull was dealing with in his example, this amounts to 36 rounds of voting.
 
