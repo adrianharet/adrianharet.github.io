@@ -21,13 +21,13 @@ There will also be additional material on recent developments and trends.
 ## Week 1 (October 14, 2024)
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
 Main points are summarized in the slides, 
-[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-1-logistics.pdf).
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-01-logistics.pdf).
 
 We then have our first glimpse of social choice theory,
 and two ways of thinking about voting: 
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
 versus as a procedure for aggregating preferences into an expression of what voters want (non-epistemic voting).
-Slides [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-2-voting-epistemic-nonepistemic.pdf).
+Slides [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/01-02-voting-epistemic-nonepistemic.pdf).
 
 
 ## Week 2 (October 21, 2024)
@@ -40,9 +40,9 @@ and Chapter 1 from Szpiro (2010) for Plato's alternative.
 As a bonus reading, also have a look at Chapter 4 of Melissa Lane's book.
 
 Adrian's slides for how Athenian democracy functioned are 
-[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-1-athenian-democracy.pdf).
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-01-athenian-democracy.pdf).
 Nestor's slides for Plato's alternative, based on Szpiro's book, are 
-[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-2-nestor-antidemocrat.pdf).
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/02-02-nestor-antidemocrat.pdf).
 
 
 ## Week 3 (October 28, 2024)
@@ -58,13 +58,30 @@ by most of the voters, and the the upshot is that voters will be strategic about
 
 This is a broad phenomenon that afflicts many modern elections, not just trials in the Ancient world.
 Adrian's slides are
-[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-2-plurality-manipulation.pdf).
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-02-plurality-manipulation.pdf).
 
-## Week 4 (November 4)
-We will be reading Chapter 3 of Szpiro (2010), and hear about a voting rule proposed by the Catalan 
-thinker Ramon Llull.
+## Week 4 (November 4, 2024)
+We read Chapter 3 of Szpiro (2010), which introduces us to the Catalan thinker Ramon Llull.
+Trying to find the most perfect way of electing an abbess, Llull put forward, around 800 years ago, 
+not one, but two (!) voting rules.
+The first is based on counting the number of wins each candidate gets in pairwise contests with the other candidates,
+and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
+Apart from the technicality of ties, which Lull hand-waived away, this problem takes up a lot of time and resources:
+we need to run an election for every possible pair of candidates. 
+For 9 candidates, which was the number Llull was dealing with in his example, this amounts to 36 rounds of voting.
 
-Nicola will be presenting.
+Lull tries to circumvent this problem by introducing a variant in which the 
+loser in the first election is eliminated, while the winner is pitted against a new candidate, and so on, tournament style. 
+This rule is known nowadays, unsurprisingly, as 
+the tournament, or [round-robin method of voting](https://en.wikipedia.org/wiki/Round-robin_voting).
+While faster (with 9 candidates it requires only rounds of voting), it is sensitive to the order in which candidates 
+are lined up.
+
+Nicola is presenting. Her slides are
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/04-01-nicola-the-mystic.pdf).
+
+## Week 5 (Noveber 11, 2024)
+We will be looking at Chapter 4 of Szpiro (2010).
 
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
