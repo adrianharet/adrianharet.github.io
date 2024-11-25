@@ -63,10 +63,43 @@ If you want to play around with the Schelling model, check out Nicky Case's impl
 
 
 ## Week 3 (November 5, 2024)
-We study Chapter 4 of Smaldino (2024).
+We get a brief glimpse into contagion models, covered in Chapter 4 of Smaldino (2023).
+We start with a few simple models, and end with the famous SIR model.
+Slides are [here](/content/teaching/2024-2025-model-agents/04-contagion-models.pdf).
+
+For a nice series of simulations on contagions and various interventions, see 
+the very nice [video](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3Blue1Brown.
+
+## Week 4 (November 12, 2024)
+We look at a couple of simple, but powerful models of opinion dynamics, 
+presented in Chapter 5 of Smaldino (2023).
+Simon leads the discussion, and his slides are here.
+
+## Week 5 (November 19, 2024)
+We continue our journey into opinion dynamics with a detour into the wisdom of crowds.
+We start with Galton's adventures at the Plymouth country fair, where he got a first-hand glimpse into
+a group of farmer's ability to guess the weight of an ox, as reported in Galton (1907). 
+
+We then looked at the landmark result in this area, the Condorcet Jury Theorem (CJT).
+The obvious question is: what happens if the stringent conditions of the CJT are not satisfied?
+In particular, what happens if voters are not independent? This can happen if agents are in a 
+social network and communicate with each other.
+A particularly nice set of results on the DeGroot model of opinion dynamics comes from Golub & Jackson (2010).
+
+Slides are [here](/content/teaching/2024-2025-model-agents/06-wisdom-of-crowds.pdf)
+
+## Week 6 (November 26, 2024)
+We are working towards Chapter 5 of Smaldino (2023), which covers models of the emergence of cooperation.
+Before we delve into this topic, we familiarize ourselves with the problem of cooperation and its 
+game-theoretic underpinnings.
+
+Adrian presents.
 
 # Bibliography
-1. Couzin, I. D. (2007). Collective minds. Nature, 445(7129), 715.
-2. Couzin, I. D. (2009). Collective cognition in animal groups. Trends in Cognitive Sciences, 13(1), 36–43.
-3. Sumpter, D. J. T. (2010). Collective Animal Behavior. Princeton University Press.
-4. Smaldino, P. (2023). Modeling Social Behavior. Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution. Princeton University Press.
+1. Galton, F. (1907). Vox populi. Nature, 75(7), 450–451.
+2. Couzin, I. D. (2007). Collective minds. Nature, 445(7129), 715.
+3. Couzin, I. D. (2009). Collective cognition in animal groups. Trends in Cognitive Sciences, 13(1), 36–43.
+4. Sumpter, D. J. T. (2010). Collective Animal Behavior. Princeton University Press.
+5. Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. American Economic Journal: Microeconomics, 2(1), 112–149.
+6. 3Blue1Brown (Mar 27, 2020). [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs). YouTube.
+7. Smaldino, P. (2023). Modeling Social Behavior. Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution. Princeton University Press.
