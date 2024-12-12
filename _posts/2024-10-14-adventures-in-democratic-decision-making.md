@@ -58,7 +58,7 @@ by most of the voters, and the the upshot is that voters will be strategic about
 
 This is a broad phenomenon that afflicts many modern elections, not just trials in the Ancient world.
 Adrian's slides are
-[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-02-plurality-manipulation.pdf).
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-02-plurality-and-its-discontents.pdf).
 
 ## Week 4 (November 4, 2024)
 We read Chapter 3 of Szpiro (2010), which introduces us to the Catalan thinker Ramon Llull.
@@ -83,6 +83,35 @@ Nicola is presenting. Her slides are
 ## Week 5 (November 11, 2024)
 We will be looking at Chapter 4 of Szpiro (2010). Lena is presenting.
 
+## Week 6 (November 18, 2024)
+Borda rule.
+
+## Week 7 (November 25, 2024)
+Condorcet consistency.
+
+## Week 8 (December 2, 2024)
+Approval voting and range voting.
+
+## Week 9 (December 9, 2024)
+The lecture is about Instant-Runoff Voting, also known as Single Transferable Vote,
+Ranked-Choice Voting, or, in the UK, Alternative Vote.
+We hear about the good, the bad and the ugly aspects of trying to actually make it work in real life.
+
+The presentation is mainly based on Chapter 3 of Volic (2024).
+Adrian's slides are here.
+
+
+## Week 10 (December 16, 2024)
+This week we find out, finally, why democracy is impossible. :) 
+
+We will see Arrow's theorem, together with the (non-trivial) proof.
+Nestor is presenting.
+
+## Week 11 (December 23, 2024)
+Christmas break. No lecture today.
+
+
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
 2. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
+3. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
