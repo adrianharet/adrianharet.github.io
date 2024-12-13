@@ -17,16 +17,18 @@ There will also be additional material on recent developments and trends.
 
 
 # Lectures
+## Week 1. Voting: aiming for fairness, or for accuracy? 
+<div style="text-align: right"> October 14, 2024</div>
 
-## Week 1 (October 14, 2024)
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
-Main points are summarized in the slides,
+The main points are summarized in the slides,
 [here](/content/teaching/2024-ws-adventures/01-01-logistics.pdf).
 
 We then have our first glimpse of social choice theory,
 and two ways of thinking about voting: 
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
-versus as a procedure for aggregating preferences into an expression of what voters want (non-epistemic voting).
+versus as a procedure for aggregating preferences into an expression of what 
+voters want (non-epistemic voting).
 Slides [here](/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf).
 
 
