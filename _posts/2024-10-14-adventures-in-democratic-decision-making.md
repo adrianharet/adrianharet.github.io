@@ -81,28 +81,69 @@ Nicola is presenting. Her slides are
 [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/04-01-nicola-the-mystic.pdf).
 
 ## Week 5 (November 11, 2024)
-We will be looking at Chapter 4 of Szpiro (2010). Lena is presenting.
+We are reading Chapter 4 of Szpiro (2010). 
+We find out about Nicolaus Cusanus and his quest to find the best way to elect a pope.
+Cusanus' idea involves ranking candidates, and assigning them points.
+The winner is the candidate with the most overall points, an idea that will be rediscovered 
+by Borda some years later (and which we will look at next week).
+
+We see that there are many ways to assign points,
+learn about the general idea of scoring rules, 
+and see some concrete examples (e.g., Eurovision, or Formula 1).
+
+Lena is presenting.
 
 ## Week 6 (November 18, 2024)
-Borda rule.
+We learn about Borda rule. The reading is Chapter 5 of Szpiro (2010).
+We see that, even though intuitively appealing, Borda has several drawbacks:
+it can select mediocre candidates, candidates whom a majority of the voters think 
+are worse than some other candidate, and it is embarrassingly easy to manipulate.
+
+Federico is presenting.
+
+Adrian's slides are 
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/06-02-borda-rule.pdf).
 
 ## Week 7 (November 25, 2024)
-Condorcet consistency.
+We formalize the idea that candidates deserving to win an election should 
+be those candidates that win in head-to-head contests against other candidates,
+an idea credited to Condorcet.
+Condorcet winners are nice, but they have the disadvantage of not always existing.
+The reading is Szpiro (2010), Chapter 6.
+
+Adrian's slides are 
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/07-01-condorcet-consistency.pdf).
+
 
 ## Week 8 (December 2, 2024)
-Approval voting and range voting.
+Our quest for the perfect rule continues.
+We meet two new voting rules: approval voting and range voting.
+Both are based on the idea of distributing points liberally to preferred candidates. 
+
+We see that, despite being intuitively appealing and very permissive, range voting 
+can degenerate into a simpler manifestation by voters assigning extreme points 
+in an attempt to manipulate the result.
+Meanwhile, approval voting seems to be specialists' favorite rule, with plurality 
+as the least favorite
+(see Laslier (2012) for the result of a poll conducted among social choice theorists). 
+ 
+The reading is Chapter 5 of Volić (2024).
+Victoria is presenting.
+Her slides are here.
+
 
 ## Week 9 (December 9, 2024)
 The lecture is about Instant-Runoff Voting, also known as Single Transferable Vote,
 Ranked-Choice Voting, or, in the UK, Alternative Vote.
 We hear about the good, the bad and the ugly aspects of trying to actually make it work in real life.
 
-The presentation is mainly based on Chapter 3 of Volic (2024).
-Adrian's slides are here.
+The presentation is mainly based on Chapter 3 of Volić (2024).
+Adrian's slides are
+[here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/09-01-stv.pdf).
 
 
 ## Week 10 (December 16, 2024)
-This week we find out, finally, why democracy is impossible. :) 
+This week we find out, finally, why democracy is impossible.
 
 We will see Arrow's theorem, together with the (non-trivial) proof.
 Nestor is presenting.
@@ -113,5 +154,6 @@ Christmas break. No lecture today.
 
 # Bibliography
 1. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
-2. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
-3. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
+2. Laslier, J.-F. (2012). And the Loser Is… Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer Berlin Heidelberg.
+3. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
+4. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
