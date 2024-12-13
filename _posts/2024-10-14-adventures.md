@@ -30,27 +30,29 @@ as a procedure for finding society's opinion about an unknown ground truth (epis
 versus as a procedure for aggregating preferences into an expression of what 
 voters want (non-epistemic voting).
 
-<i class="fa-solid fa-file-pdf"></i> 
-[Logistics]
-(/content/teaching/2024-ws-adventures/01-01-logistics.pdf)<br>
+<i class="fa-solid fa-file-pdf"></i>
+<a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
+Logistics
+</a>
+<br>
+<i class="fa-solid fa-file-pdf"></i>
 [Epistemic vs non-epistemic voting]
 (/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
 
-
-
 ## Week 2 (October 21, 2024)
-We look at an early example of a functioning democracy: Ancient Athens.
-We see how Athenian democracy worked, and hear from one of its main critics, 
-local thinker and would-be advisor to kings called Plato.
+We look at an early example of a functioning democracy: ancient Athens.
+We see how Athenian democracy worked and hear from one of its main critics, 
+a local thinker and would-be advisor to kings called Plato.
 
 The readings are Chapter 3 of Lane (2014), for an overview of democratic Athens, 
 and Chapter 1 from Szpiro (2010) for Plato's alternative.
-As a bonus reading, also have a look at Chapter 4 of Melissa Lane's book.
+As a bonus reading, have a look at Chapter 4 of Melissa Lane's book.
 
-Adrian's slides for how Athenian democracy functioned are 
-[here](/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf).
-Nestor's slides for Plato's alternative, based on Szpiro's book, are 
-[here](/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf).
+<i class="fa-solid fa-file-pdf"></i> 
+[Athenian democracy](/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf) (Adrian)
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+[Plato's critique](/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf) (Nestor)
 
 
 ## Week 3 (October 28, 2024)
