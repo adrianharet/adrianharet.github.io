@@ -41,7 +41,11 @@ voters want (non-epistemic voting).
     Epistemic vs non-epistemic voting
 </a>
 
-## Week 2 (October 21, 2024)
+## Week 2. Athenian democracy
+<div style="text-align: right">
+    October 21, 2024
+</div>
+
 We look at an early example of a functioning democracy: ancient Athens.
 We see how Athenian democracy worked and hear from one of its main critics, 
 a local thinker and would-be advisor to kings called Plato.
@@ -57,13 +61,19 @@ Lane (2014), Chapter 3
 Szpiro (2010), Chapter 1
 <br>
 <i class="fas fa-tasks"></i>
-Lane (2014), Chapter 3 (bonus reading)
+Lane (2014), Chapter 4 (bonus reading)
 
-<i class="fa-solid fa-file-pdf"></i> 
-[Athenian democracy](/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf) (Adrian)
+<i class="fa-solid fa-file-pdf"></i>
+<a href = "/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf">
+Athenian democracy
+</a>
+(Adrian)
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-[Plato's critique](/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf) (Nestor)
+<a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf">
+Plato's critique
+</a>
+(Nestor)
 
 
 ## Week 3 (October 28, 2024)
