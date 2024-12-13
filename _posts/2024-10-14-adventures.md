@@ -11,8 +11,10 @@ The aim of the course is to look under the bonnet of voting systems, juries and 
 and see how the rules of the game have been questioned and refined over time. 
 We will focus on a series of notable moments in democratic decision making, 
 starting in Ancient Greece and ending with present day efforts to find a perfectly proportional representation system. 
-The course will mainly follow George Szpiro’s *Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present*, 
-and structured as a series of weekly discussions on each chapter in the book. 
+The course will is based on George Szpiro’s *Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present*, 
+and Ismar Volić's recent book *Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation*.
+
+The course is structured as a series of weekly discussions on each chapter in the book. 
 There will also be additional material on recent developments and trends.
 
 
@@ -256,11 +258,49 @@ Nestor is presenting.
 <div style="text-align: right">
     December 23, 2024
 </div>
-
 Christmas break. No lecture today.
 
+## Week 12. The Condorcet Jury Theorem
+<div style="text-align: right">
+    January 13, 2025
+</div>
+
+We see why the many are better than the few,
+why groups are wise, and why democracy may work better if people talked
+to each other less.
+
+## Week 13. Apportionment I
+<div style="text-align: right">
+    January 20, 2025
+</div>
+
+The mathematics of apportionment for the US House of Representatives.
+
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 9
+
+
+## Week 14. Apportionment II
+<div style="text-align: right">
+    January 27, 2025
+</div>
+
+The mathematics of apportionment for the US House of Representatives.
+
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapters 10 and 11
+
+
+## Week 15. TBD
+<div style="text-align: right">
+    February 3, 2025
+</div>
+
+
 # Ideas for essays
-1. We've seen that Ancient Athens experimented with democracy. But how effective was democratic Athens? For an attempt to measure the performance of Athenian democracy, see Thorley (2004) and Ober (2010), Chapter 2.
+1. We've seen some examples of Athenian democracy at work, taking decisions, some good and some bad. But we have not touched on one of the factors ancient figures saw as one of the main threats to a democracy: *demagogues*. What were these, and how did they influence decisions?
+2. We've seen that Ancient Athens experimented with democracy. But how effective was democratic Athens? For an attempt to measure the performance of Athenian democracy, see Ober (2010), Chapter 2, and also Thorley (2004).
+3. For more interesting historical examples of voting practices, see Ferente et al (2017).
 
 # Bibliography
 1. Thorley, J. (2004). Athenian Democracy (2nd ed.). Routledge.
@@ -268,4 +308,5 @@ Christmas break. No lecture today.
 3. Ober, J. (2010). Democracy and knowledge: Innovation and learning in classical Athens. Princeton University Press.
 4. Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer.
 5. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
-6. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
+6. Ferente, S., Kuncevic, L., & Pattenden, M. (Eds.). (2017). Cultures of Voting in Pre-Modern Europe. Routledge.
+7. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
