@@ -301,6 +301,7 @@ Szpiro (2010), Chapters 10 and 11
 1. We've seen some examples of Athenian democracy at work, taking decisions, some good and some bad. But we have not touched on one of the factors ancient figures saw as one of the main threats to a democracy: *demagogues*. What were these, and how did they influence decisions?
 2. We've seen that Ancient Athens experimented with democracy. But how effective was democratic Athens? For an attempt to measure the performance of Athenian democracy, see Ober (2010), Chapter 2, and also Thorley (2004).
 3. For more interesting historical examples of voting practices, see Ferente et al (2017).
+4. In December, The Guardian released a [ranking](https://www.theguardian.com/football/ng-interactive/2024/dec/03/the-100-best-female-footballers-in-the-world-2024) of the best 100 female footballers in the world. The ranking was obtained by aggregating votes from football experts around the world. The votes are available [here](https://www.theguardian.com/football/2024/dec/07/see-how-every-judge-voted-in-the-100-best-female-footballers-for-2024). How was the ranking obtained? What voting rule did The Guardian use to aggregate the opinions of the voters? What are the pitfalls of this method? What can go wrong?
 
 # Bibliography
 1. Thorley, J. (2004). Athenian Democracy (2nd ed.). Routledge.
