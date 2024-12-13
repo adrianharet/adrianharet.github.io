@@ -17,17 +17,21 @@ There will also be additional material on recent developments and trends.
 
 
 # Lectures
+
 ## Week 1. Voting: aiming for fairness, or for accuracy? 
 <div style="text-align: right">
     October 14, 2024
 </div>
 <div style="text-align: right">
-    [Logistics]
-    (/content/teaching/2024-ws-adventures/01-01-logistics.pdf)
+    <i class="fab fa-twitter"></i>
+    <a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
+        Logistics
+    </a>
 </div>
 <div style="text-align: right">
-    [Epistemic vs non-epistemic voting]
-    (/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
+    <a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
+        Epistemic vs non-epistemic voting
+    </a>
 </div>
 
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
@@ -36,6 +40,7 @@ and two ways of thinking about voting:
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
 versus as a procedure for aggregating preferences into an expression of what 
 voters want (non-epistemic voting).
+
 
 
 ## Week 2 (October 21, 2024)
