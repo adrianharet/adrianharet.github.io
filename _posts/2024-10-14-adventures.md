@@ -75,12 +75,10 @@ Plato's critique
 </a>
 (Nestor)
 
-
 ## Week 3 (October 28, 2024)
 We start getting into the weeds of voting, with an early example of trying 
 to manipulate a collective decision: the trial of Afranius Dexter's purported killers, 
 as reported by Pliny the Younger. 
-The reading is Chapter 2 of Szpiro (2010), and Victoria will be leading the discussion.
 
 The takeaway from this week is that the rule used to determine the outcome of such a collective decision
 (plurality, or First-Past-the-Post) encourages tactical voting. Why? Because the outcome using this rule
@@ -88,8 +86,20 @@ often mis-represents the preferences of the voters. There is a real possibility 
 by most of the voters, and the the upshot is that voters will be strategic about how they place their votes.
 
 This is a broad phenomenon that afflicts many modern elections, not just trials in the Ancient world.
-Adrian's slides are
-[here](/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf).
+
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 2
+<br>
+<i class="fa-solid fa-link"></i>
+CGP Grey. <a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">
+Minority Rule: First Past the Post Voting
+</a>. YouTube
+
+<i class="fa-solid fa-file-pdf"></i>
+<a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">
+Plurality and Its Discontents
+</a>
+(Adrian)
 
 For an illustration of Duverger's law, see [this](https://www.youtube.com/watch?v=s7tWHJfhiyo) nice video
 by CGP Grey.
