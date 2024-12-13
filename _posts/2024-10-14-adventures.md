@@ -41,6 +41,10 @@ voters want (non-epistemic voting).
     Epistemic vs non-epistemic voting
 </a>
 
+
+
+
+
 ## Week 2. Athenian democracy
 <div style="text-align: right">
     October 21, 2024
@@ -64,18 +68,20 @@ Szpiro (2010), Chapter 1
 Lane (2014), Chapter 4 (bonus reading)
 
 <i class="fa-solid fa-file-pdf"></i>
-<a href = "/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf">
-Athenian democracy
-</a>
-(Adrian)
+Adrian. <a href = "/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf">Athenian democracy</a>
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-<a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf">
-Plato's critique
-</a>
-(Nestor)
+Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf">Plato's critique</a>
 
-## Week 3 (October 28, 2024)
+
+
+
+
+## Week 3. Plurality and its discontents
+<div style="text-align: right">
+    October 28, 2024
+</div>
+
 We start getting into the weeds of voting, with an early example of trying 
 to manipulate a collective decision: the trial of Afranius Dexter's purported killers, 
 as reported by Pliny the Younger. 
@@ -89,20 +95,19 @@ This is a broad phenomenon that afflicts many modern elections, not just trials 
 
 <i class="fas fa-tasks"></i>
 Szpiro (2010), Chapter 2
+
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">Plurality and Its Discontents</a>
 <br>
 <i class="fa-solid fa-link"></i>
 CGP Grey. <a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">
 Minority Rule: First Past the Post Voting
 </a>. YouTube
 
-<i class="fa-solid fa-file-pdf"></i>
-<a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">
-Plurality and Its Discontents
-</a>
-(Adrian)
 
-For an illustration of Duverger's law, see [this](https://www.youtube.com/watch?v=s7tWHJfhiyo) nice video
-by CGP Grey.
+
+
 
 ## Week 4 (November 4, 2024)
 We read Chapter 3 of Szpiro (2010), which introduces us to the Catalan thinker Ramon Llull.
