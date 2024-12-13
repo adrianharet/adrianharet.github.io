@@ -23,7 +23,7 @@ There will also be additional material on recent developments and trends.
     October 14, 2024
 </div>
 <div style="text-align: right">
-    <i class="fab fa-twitter"></i>
+    <i class="fa-solid fa-file-pdf"></i>
     <a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
         Logistics
     </a>
