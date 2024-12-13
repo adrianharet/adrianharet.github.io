@@ -22,17 +22,6 @@ There will also be additional material on recent developments and trends.
 <div style="text-align: right">
     October 14, 2024
 </div>
-<div style="text-align: right">
-    <i class="fa-solid fa-file-pdf"></i>
-    <a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
-        Logistics
-    </a>
-</div>
-<div style="text-align: right">
-    <a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
-        Epistemic vs non-epistemic voting
-    </a>
-</div>
 
 We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
 We then have our first glimpse of social choice theory,
@@ -40,6 +29,11 @@ and two ways of thinking about voting:
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
 versus as a procedure for aggregating preferences into an expression of what 
 voters want (non-epistemic voting).
+
+<i class="fa-solid fa-file-pdf"></i>
+
+[Logistics](/content/teaching/2024-ws-adventures/01-01-logistics.pdf)<br>
+[Epistemic vs non-epistemic voting](/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
 
 
 
