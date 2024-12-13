@@ -60,6 +60,9 @@ This is a broad phenomenon that afflicts many modern elections, not just trials 
 Adrian's slides are
 [here](/content/teaching/2024-2025-adventures-in-democratic-decision-making/03-02-plurality-and-its-discontents.pdf).
 
+For an illustration of Duverger's law, see [this](https://www.youtube.com/watch?v=s7tWHJfhiyo) nice video
+by CGP Grey.
+
 ## Week 4 (November 4, 2024)
 We read Chapter 3 of Szpiro (2010), which introduces us to the Catalan thinker Ramon Llull.
 Trying to find the most perfect way of electing an abbess, Llull put forward, around 800 years ago, 
