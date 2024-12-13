@@ -154,10 +154,13 @@ Nestor is presenting.
 ## Week 11 (December 23, 2024)
 Christmas break. No lecture today.
 
+# Ideas for essays
+1. We've seen that Ancient Athens experimented with democracy. But how effective was democratic Athens? For an attempt to measure the performance of Athenian democracy, see Thorley (2004) and Ober (2010), Chapter 2.
 
 # Bibliography
 1. Thorley, J. (2004). Athenian Democracy (2nd ed.). Routledge.
 2. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
-3. Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer Berlin Heidelberg.
-4. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
-5. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
+3. Ober, J. (2010). Democracy and knowledge: Innovation and learning in classical Athens. Princeton University Press.
+4. Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer Berlin Heidelberg.
+5. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
+6. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
