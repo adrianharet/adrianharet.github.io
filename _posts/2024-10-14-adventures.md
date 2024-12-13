@@ -23,7 +23,8 @@ There will also be additional material on recent developments and trends.
     October 14, 2024
 </div>
 
-We start out by introducing ourselves, followed by a breakdown of the logistics of the course. 
+We kick things off by introducing ourselves, 
+followed by a breakdown of the logistics of the course. 
 We then have our first glimpse of social choice theory,
 and two ways of thinking about voting: 
 as a procedure for finding society's opinion about an unknown ground truth (epistemic voting), 
@@ -32,12 +33,13 @@ voters want (non-epistemic voting).
 
 <i class="fa-solid fa-file-pdf"></i>
 <a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
-Logistics
+    Logistics
 </a>
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-[Epistemic vs non-epistemic voting]
-(/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
+<a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
+    Epistemic vs non-epistemic voting
+</a>
 
 ## Week 2 (October 21, 2024)
 We look at an early example of a functioning democracy: ancient Athens.
@@ -47,6 +49,15 @@ a local thinker and would-be advisor to kings called Plato.
 The readings are Chapter 3 of Lane (2014), for an overview of democratic Athens, 
 and Chapter 1 from Szpiro (2010) for Plato's alternative.
 As a bonus reading, have a look at Chapter 4 of Melissa Lane's book.
+
+<i class="fas fa-tasks"></i>
+Lane (2014), Chapter 3
+<br>
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 1
+<br>
+<i class="fas fa-tasks"></i>
+Lane (2014), Chapter 3 (bonus reading)
 
 <i class="fa-solid fa-file-pdf"></i> 
 [Athenian democracy](/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf) (Adrian)
