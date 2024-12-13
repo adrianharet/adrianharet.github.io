@@ -82,7 +82,8 @@ Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocra
     October 28, 2024
 </div>
 
-We see an early example of trying to manipulate a collective decision: the trial of Afranius Dexter's purported killers, as reported by Pliny the Younger. 
+We see an early example of trying to manipulate a collective decision: 
+the trial of Afranius Dexter's purported killers, as reported by Pliny the Younger. 
 
 The takeaway from this week is that the rule used to determine the outcome of such a collective decision
 (plurality, or First-Past-the-Post) encourages tactical voting. Why? Because the outcome using this rule
@@ -110,32 +111,34 @@ CGP Grey.
 
 
 
-
-
 ## Week 4. The Copeland (Llull) Rule
 <div style="text-align: right">
     November 4, 2024
 </div>
 
-We read Chapter 3 of Szpiro (2010), which introduces us to the Catalan thinker Ramon Llull.
-Trying to find the most perfect way of electing an abbess, Llull put forward, around 800 years ago, 
-not one, but two (!) voting rules.
+We're introduced to the Catalan thinker Ramon Llull.
+Trying to find the most perfect way of electing an abbess, 
+Llull put forward, around 800 years ago, not one, but two (!) voting rules.
 The first is based on counting the number of wins each candidate gets in pairwise contests with the other candidates,
 and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
-Apart from the technicality of ties, which Llull hand-waived away, this problem takes up a lot of time and resources:
-we need to run an election for every possible pair of candidates. 
+There is one technicality, which is the possibility of ties, but Llull hand-waived it away. 
+Another problem was that this way of finding a winner took up more resources than were available at the time,
+since it involved running an election for every possible pair of candidates. 
 For 9 candidates, which was the number Llull was dealing with in his example, this amounts to 36 rounds of voting.
 
-Llull tries to circumvent this problem by introducing a variant in which the 
-loser in the first election is eliminated, while the winner is pitted against a new candidate, and so on, tournament style. 
+Llull tried to circumvent this problem by introducing a variant in which the 
+loser in the first election was eliminated and the winner pitted against a new candidate, and so on, tournament style. 
 This rule is known nowadays, unsurprisingly, as 
-the tournament, or [round-robin method of voting](https://en.wikipedia.org/wiki/Round-robin_voting).
+the tournament, or [round-robin](https://en.wikipedia.org/wiki/Round-robin_voting) method of voting.
 While faster (with 9 candidates it requires only rounds of voting), it is sensitive to the order in which candidates 
 are lined up.
 
-Nicola is presenting. Her slides are
-[here](/content/teaching/2024-ws-adventures/04-01-nicola-the-mystic.pdf).
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 3
 
+<i class="fa-solid fa-file-pdf"></i>
+Nicola.
+<a href = "/content/teaching/2024-ws-adventures/04-01-nicola-the-mystic.pdf">The mystic</a>
 
 
 
@@ -144,7 +147,6 @@ Nicola is presenting. Her slides are
     November 11, 2024
 </div>
 
-We are reading Chapter 4 of Szpiro (2010). 
 We find out about Nicolaus Cusanus and his quest to find the best way to elect a pope.
 Cusanus' idea involves ranking candidates, and assigning them points.
 The winner is the candidate with the most overall points, an idea that will be rediscovered 
@@ -153,6 +155,9 @@ by Borda some years later (and which we will look at next week).
 We see that there are many ways to assign points,
 learn about the general idea of scoring rules, 
 and see some concrete examples (e.g., Eurovision, or Formula 1).
+
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 4
 
 Lena is presenting.
 
@@ -166,11 +171,15 @@ We see that, even though intuitively appealing, Borda has several drawbacks:
 it can select mediocre candidates, candidates whom a majority of the voters think 
 are worse than some other candidate, and it is embarrassingly easy to manipulate.
 
-Federico is presenting. His slides are
-[here](/content/teaching/2024-ws-adventures/06-01-federico-borda.pdf)
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 5
 
-Adrian's slides are 
-[here](/content/teaching/2024-ws-adventures/06-02-borda-rule.pdf).
+<i class="fa-solid fa-file-pdf"></i>
+Federico.
+<a href = "/content/teaching/2024-ws-adventures/06-01-federico-borda.pdf">Borda and his rule</a><br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ws-adventures/06-02-borda-rule.pdf">The Borda rule</a>
 
 ## Week 7. Condorcet Consistency
 <div style="text-align: right">
@@ -181,10 +190,13 @@ We formalize the idea that candidates deserving to win an election should
 be those candidates that win in head-to-head contests against other candidates,
 an idea credited to Condorcet.
 Condorcet winners are nice, but they have the disadvantage of not always existing.
-The reading is Szpiro (2010), Chapter 6.
 
-Adrian's slides are 
-[here](/content/teaching/2024-ws-adventures/07-01-condorcet-consistency.pdf).
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 6
+
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ws-adventures/07-01-condorcet-consistency.pdf">Condorcet Consistency</a>
 
 
 ## Week 8. Approval Voting and Range Voting
@@ -202,10 +214,16 @@ in an attempt to manipulate the result.
 Meanwhile, approval voting seems to be specialists' favorite rule, with plurality 
 as the least favorite
 (see Laslier (2012) for the result of a poll conducted among social choice theorists). 
- 
-The reading is Chapter 5 of Volić (2024).
-Victoria is presenting.
-Her slides are [here](/content/teaching/2024-ws-adventures/08-01-victoria-approval-range-voting.pdf).
+
+<i class="fas fa-tasks"></i>
+Volić (2024), Chapter 5
+
+<i class="fa-solid fa-file-pdf"></i>
+Victoria.
+<a href = "/content/teaching/2024-ws-adventures/08-01-victoria-approval-range-voting.pdf">Approval Voting & Range Voting</a><br>
+<i class="fa-solid fa-file-pdf"></i>
+Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer.
+
 
 
 ## Week 9. Instant Runoff Voting
@@ -217,10 +235,12 @@ The lecture is about Instant-Runoff Voting, also known as Single Transferable Vo
 Ranked-Choice Voting, or, in the UK, Alternative Vote.
 We hear about the good, the bad and the ugly aspects of trying to actually make it work in real life.
 
-The presentation is mainly based on Chapter 3 of Volić (2024).
-Adrian's slides are
-[here](/content/teaching/2024-ws-adventures/09-01-stv.pdf).
+<i class="fas fa-tasks"></i>
+Volić (2024), Chapter 3
 
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ws-adventures/09-01-stv.pdf">Instant Runoff Voting</a>
 
 ## Week 10. Arrow's Theorem
 <div style="text-align: right">
