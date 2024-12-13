@@ -18,7 +18,7 @@ There will also be additional material on recent developments and trends.
 
 # Lectures
 
-## Week 1. Voting: aiming for fairness, or for accuracy? 
+## Week 1. Voting: aiming for fairness, or accuracy? 
 <div style="text-align: right">
     October 14, 2024
 </div>
@@ -30,10 +30,11 @@ as a procedure for finding society's opinion about an unknown ground truth (epis
 versus as a procedure for aggregating preferences into an expression of what 
 voters want (non-epistemic voting).
 
-<i class="fa-solid fa-file-pdf"></i>
-
-[Logistics](/content/teaching/2024-ws-adventures/01-01-logistics.pdf)<br>
-[Epistemic vs non-epistemic voting](/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
+<i class="fa-solid fa-file-pdf"></i> 
+[Logistics]
+(/content/teaching/2024-ws-adventures/01-01-logistics.pdf)<br>
+[Epistemic vs non-epistemic voting]
+(/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf)
 
 
 
