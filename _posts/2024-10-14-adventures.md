@@ -34,11 +34,13 @@ versus as a procedure for aggregating preferences into an expression of what
 voters want (non-epistemic voting).
 
 <i class="fa-solid fa-file-pdf"></i>
+Adrian.
 <a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
     Logistics
 </a>
 <br>
 <i class="fa-solid fa-file-pdf"></i>
+Adrian.
 <a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
     Epistemic vs non-epistemic voting
 </a>
@@ -121,7 +123,8 @@ CGP Grey.
 We're introduced to the Catalan thinker Ramon Llull.
 Trying to find the most perfect way of electing an abbess, 
 Llull put forward, around 800 years ago, not one, but two (!) voting rules.
-The first is based on counting the number of wins each candidate gets in pairwise contests with the other candidates,
+The first is based on counting the number of wins each candidate gets 
+in pairwise contests with the other candidates,
 and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
 There is one technicality, which is the possibility of ties, but Llull hand-waived it away. 
 Another problem was that this way of finding a winner took up more resources than were available at the time,
