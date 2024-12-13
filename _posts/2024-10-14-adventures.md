@@ -101,9 +101,10 @@ Adrian.
 <a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">Plurality and Its Discontents</a>
 <br>
 <i class="fa-solid fa-link"></i>
-CGP Grey. <a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">
-Minority Rule: First Past the Post Voting
-</a>. YouTube
+CGP Grey. 
+<a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">Minority Rule: First Past the Post Voting</a>. YouTube
+* Nice illustration of Duverger's law, i.e., what happens over the long run when people vote strategically in a plurality, or first-past-the-post system.
+
 
 
 
