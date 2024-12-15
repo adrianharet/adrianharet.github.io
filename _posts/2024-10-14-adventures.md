@@ -311,7 +311,7 @@ Szpiro (2010), Chapters 10 and 11
 8. For a series of case-studies of tactical voting around the world, see Aldrich et al (2018).
 9. In the lecture we've seen how many votes a majority (Condorcet, in fact) winner needs in order to also be a guaranteed Borda winner. But what is the lowest Borda score a candidate can obtain, and still be a Condorcet winner? Can the Borda rule elect a [Condorcet loser](https://en.wikipedia.org/wiki/Condorcet_loser_criterion)? Why, or why not?
 10. What is the probability of a profile containing a Condorcet cycle (under some assumptions on how preferences are formed)?
-11. Many interesting voting phenomena can be illustrated in [spatial model](https://en.wikipedia.org/wiki/Spatial_voting), particularly through simulations.
+11. Many interesting voting phenomena can be illustrated in the [spatial model](https://en.wikipedia.org/wiki/Spatial_voting), particularly through simulations.
 12. For a model of how polarization can occur in the spatial model, see Jones et al (2022).
 13. What is Siegenfeld & Bar-Yam (2020) about?
 14. Describe the argument that the Borda count would have avoided the US civil war, in Tabarrok & Spector (1999).
