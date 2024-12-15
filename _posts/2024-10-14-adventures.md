@@ -304,14 +304,34 @@ Szpiro (2010), Chapters 10 and 11
 1. We've seen some examples of Athenian democracy at work, taking decisions, some good and some bad. But we have not touched on one of the factors ancient figures saw as one of the main threats to a democracy: *demagogues*. What were these, and how did they influence decisions?
 2. We've seen that Ancient Athens experimented with democracy. But how effective was democratic Athens? For an attempt to measure the performance of Athenian democracy, see Ober (2010), Chapter 2, and also Thorley (2004).
 3. For more interesting historical examples of voting practices, see Ferente et al (2017).
-4. In December, The Guardian released a [ranking](https://www.theguardian.com/football/ng-interactive/2024/dec/03/the-100-best-female-footballers-in-the-world-2024) of the best 100 female footballers in the world. The ranking was obtained by aggregating votes from football experts around the world. The votes are available [here](https://www.theguardian.com/football/2024/dec/07/see-how-every-judge-voted-in-the-100-best-female-footballers-for-2024). How was the ranking obtained? What voting rule did The Guardian use to aggregate the opinions of the voters? What are the pitfalls of this method? What can go wrong? Should they use a different rule?
-5. How does IMDB (likely) aggregate votes from viewers to rank movies, e.g., for its Top 250 list? What would be the downsides of whatever method it uses? Is there a better way?
+4. Are there interesting voting examples from the history of papal elections?
+5. In December, The Guardian released a [ranking](https://www.theguardian.com/football/ng-interactive/2024/dec/03/the-100-best-female-footballers-in-the-world-2024) of the best 100 female footballers in the world. The ranking was obtained by aggregating votes from football experts around the world. The votes are available [here](https://www.theguardian.com/football/2024/dec/07/see-how-every-judge-voted-in-the-100-best-female-footballers-for-2024). How was the ranking obtained? What voting rule did The Guardian use to aggregate the opinions of the voters? What are the pitfalls of this method? What can go wrong? Should they use a different rule?
+6. How does IMDB (likely) aggregate votes from viewers to rank movies, e.g., for its Top 250 list? What would be the downsides of whatever method it uses? Is there a better way?
+7. We have defined manipulation, or tactical voting, very loosely as altering one's vote in order to influence the outcome. But manipulation can take [many forms](https://en.wikipedia.org/wiki/Strategic_voting), from 'burying', to 'turkey-raising' or abstaining. What method works well for which voting rule? What are likely to be the effects?
+8. For a series of case-studies of tactical voting around the world, see Aldrich et al (2018).
+9. In the lecture we've seen how many votes a majority (Condorcet, in fact) winner needs in order to also be a guaranteed Borda winner. But what is the lowest Borda score a candidate can obtain, and still be a Condorcet winner? Can the Borda rule elect a [Condorcet loser](https://en.wikipedia.org/wiki/Condorcet_loser_criterion)? Why, or why not?
+10. What is the probability of a profile containing a Condorcet cycle (under some assumptions on how preferences are formed)?
+11. Many interesting voting phenomena can be illustrated in [spatial model](https://en.wikipedia.org/wiki/Spatial_voting), particularly through simulations.
+12. For a model of how polarization can occur in the spatial model, see Jones et al (2022).
+13. What is Siegenfeld & Bar-Yam (2020) about?
+14. Describe the argument that the Borda count would have avoided the US civil war, in Tabarrok & Spector (1999).
+15. Instant Runoff Voting is claimed to have a moderating effect on politics. Did it do so in Fiji? See Fraenkel & Grofman (2006)
+16. For a more theoretical approach to the moderating effect of Instant Runoff Voting, see Tomlinson et al (2024).
+17. For an empirically driven approach to studying preferences among voting rules, see Hausladen et al (2024).
 
 # Bibliography
-1. Thorley, J. (2004). Athenian Democracy (2nd ed.). Routledge.
-2. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
-3. Ober, J. (2010). Democracy and knowledge: Innovation and learning in classical Athens. Princeton University Press.
-4. Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer.
-5. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
-6. Ferente, S., Kuncevic, L., & Pattenden, M. (Eds.). (2017). Cultures of Voting in Pre-Modern Europe. Routledge.
-7. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
+1. Tabarrok, A., & Spector, L. (1999). Would the Borda count have avoided the civil war? Journal of Theoretical Politics, 11(2), 261–288.
+2. Thorley, J. (2004). Athenian Democracy (2nd ed.). Routledge.
+3. Fraenkel, J., & Grofman, B. (2006). Does the alternative vote foster moderation in ethnically divided societies?: The case of Fiji. Comparative Political Studies, 39(5), 623–651.
+4. Szpiro, G. (2010). Numbers Rule. The Vexing Mathematics of Democracy, from Plato to the Present. Princeton University Press.
+5. Ober, J. (2010). Democracy and knowledge: Innovation and learning in classical Athens. Princeton University Press.
+6. Laslier, J.-F. (2012). And the Loser Is... Plurality Voting. In D. S. Felsenthal & M. Machover (Eds.), Electoral Systems: Paradoxes, Assumptions, and Procedures (pp. 327–351). Springer.
+7. Lane, M. (2015). The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter. Princeton University Press.
+8. Ferente, S., Kuncevic, L., & Pattenden, M. (Eds.). (2017). Cultures of Voting in Pre-Modern Europe. Routledge.
+9. Aldrich, J. H., Blais, A., & Stephenson, L. B. (2018). The Many Faces of Strategic Voting: Tactical Behavior in Electoral Systems Around the World. University of Michigan Press.
+10. Siegenfeld, A. F., & Bar-Yam, Y. (2020). Negative representation and instability in democratic elections. Nature Physics, 16(2), 186–190.
+11. Jones, M. I., Sirianni, A. D., & Fu, F. (2022). Polarization, abstention, and the median voter theorem. Humanities & Social Sciences Communications, 9(1), 1–12.
+12. Volić, I. (2024). Making Democracy Count: How Mathematics Improves Voting, Electoral Maps, and Representation. Princeton University Press.
+13. Tomlinson, K., Ugander, J., & Kleinberg, J. (2024). The moderating effect of instant runoff voting. AAAI 2024.
+14. Hausladen, C. I., Hänggli Fricker, R., Helbing, D., Kunz, R., Wang, J., & Pournaras, E. (2024). How voting rules impact legitimacy. Humanities & Social Sciences Communications, 11(1), 1–10.
+
