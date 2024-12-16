@@ -257,6 +257,13 @@ This week we find out, finally, why democracy is impossible.
 We will see Arrow's theorem, together with the (non-trivial) proof.
 Nestor is presenting.
 
+<i class="fas fa-tasks"></i>
+Szpiro (2010), Chapter 11
+<br>
+<i class="fas fa-tasks"></i>
+Volić (2024), Chapter 4
+
+
 ## Week 11. Christmas!
 <div style="text-align: right">
     December 23, 2024
@@ -291,7 +298,7 @@ Szpiro (2010), Chapter 9
 The mathematics of apportionment for the US House of Representatives.
 
 <i class="fas fa-tasks"></i>
-Szpiro (2010), Chapters 10 and 11
+Szpiro (2010), Chapters 10 and 12
 
 
 ## Week 15. TBD
