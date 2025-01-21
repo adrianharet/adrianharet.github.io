@@ -284,10 +284,15 @@ to each other less.
     January 20, 2025
 </div>
 
-The mathematics of apportionment for the US House of Representatives.
+We talk about the history and mathematics of apportionment 
+for the US House of Representatives.
 
 <i class="fas fa-tasks"></i>
-Szpiro (2010), Chapter 9
+Szpiro (2010), Chapters 9 and 10
+
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ws-adventures/13-01-apportionment-history.pdf">The History of Apportionment in the US</a>
 
 
 ## Week 14. Apportionment II
@@ -295,10 +300,10 @@ Szpiro (2010), Chapter 9
     January 27, 2025
 </div>
 
-The mathematics of apportionment for the US House of Representatives.
+
 
 <i class="fas fa-tasks"></i>
-Szpiro (2010), Chapters 10 and 12
+Szpiro (2010), Chapters 12 and 13
 
 
 ## Week 15. TBD
