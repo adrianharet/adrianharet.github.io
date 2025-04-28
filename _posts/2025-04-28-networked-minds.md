@@ -21,7 +21,7 @@ The coursework will consist of weekly discussions based on the core texts cited 
 
 We kick things off by introducing ourselves, 
 followed by a breakdown of the logistics of the course. 
-And then we play a guessing game!
+And then we play a guessing game and find out about the wisdom of crowds.
 
 <!-- <i class="fa-solid fa-file-pdf"></i>
 Adrian.
@@ -39,15 +39,12 @@ Adrian.
 
 
 
-## Week 2. Game Theory Basics
+## Week 2. The Condorcet Jury Theorem
 <div style="text-align: right">
     May 5, 2025
 </div>
 
-We dive into the basics of game theory. 
-We start by defining what a game is, and then look at key notions: 
-strategies (your game plan), payoffs (what you get out of it), \
-and equilibria (where everyone’s made their move and no one has a reason to change). 
+We see the Condorcet Jury Theorem, the landmark result of the wisdom of crowds.
 
 <!-- <i class="fas fa-tasks"></i>
 Lane (2014), Chapter 3
@@ -68,63 +65,27 @@ Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocra
 
 
 
-## Week 3. Mixed Strategies in Penalty Shootouts
+## Week 3. Beyond the Condorcet Jury Theorem
 <div style="text-align: right">
 May 12, 2025
 </div>
 
-We see our first outstanding application: does game theory explain how football players 
-take penalties?
-
-
-<i class="fas fa-tasks"></i>
-Palacios-Huerta (2014), Chapter 1
-
-<!-- <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">Plurality and Its Discontents</a>
-<br>
-<i class="fa-solid fa-link"></i>
-CGP Grey. 
-<a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">Minority Rule: First Past the Post Voting</a>. YouTube
-<br>
-<span style='margin-left:16px;font-size:13px'>
-    Nice illustration of Duverger's law.
-</span> -->
+We see whether the insights of the Condorcet Jury Theorem survive when we relax some of the basic assumptions.
 
 
 
-## Week 4. More Game Theory
+
+## Week 4. Social Networks: How They Rule our Lives
+
 <div style="text-align: right">
     May 19, 2025
 </div>
 
-We get introduced to more ideas of game theory: evolutionary stability, and games in extensive form.
-
-<!-- We're introduced to the Catalan thinker Ramon Llull.
-Trying to find the most perfect way of electing an abbess, 
-Llull put forward, around 800 years ago, not one, but two (!) voting rules.
-The first is based on counting the number of wins each candidate gets 
-in pairwise contests with the other candidates,
-and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
-There is one technicality, which is the possibility of ties, but Llull hand-waived it away. 
-Another problem was that this way of finding a winner took up more resources than were available at the time,
-since it involved running an election for every possible pair of candidates. 
-For 9 candidates, which was the number Llull was dealing with in his example, this amounts to 36 rounds of voting.
-
-Llull tried to circumvent this problem by introducing a variant in which the 
-loser in the first election was eliminated and the winner pitted against a new candidate, and so on, tournament style. 
-This rule is known nowadays, unsurprisingly, as 
-the tournament, or [round-robin](https://en.wikipedia.org/wiki/Round-robin_voting) method of voting.
-While faster (with 9 candidates it requires only rounds of voting), it is sensitive to the order in which candidates 
-are lined up.
+Some outstanding examples of the importance of social networks in our lives.
 
 <i class="fas fa-tasks"></i>
 Szpiro (2010), Chapter 3
 
-<i class="fa-solid fa-file-pdf"></i>
-Nicola.
-<a href = "/content/teaching/2024-ws-adventures/04-01-nicola-the-mystic.pdf">The mystic</a> -->
 
 
 
