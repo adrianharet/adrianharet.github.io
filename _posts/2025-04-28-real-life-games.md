@@ -1,6 +1,6 @@
 ---
 title: "Real Life Games: How Game Theory Shapes Human Decisions"
-date: 2025-04-18 00:00:00 +0000
+date: 2025-04-28 00:00:00 +0000
 categories: [Course]
 tags: [game_theory]     # TAG names should always be lowercase
 toc: true
