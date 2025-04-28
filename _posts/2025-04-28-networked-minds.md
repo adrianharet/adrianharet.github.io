@@ -84,7 +84,7 @@ We see whether the insights of the Condorcet Jury Theorem survive when we relax 
 Some outstanding examples of the importance of social networks in our lives.
 
 <i class="fas fa-tasks"></i>
-Szpiro (2010), Chapter 3
+Christakis & Fowler (2007).
 
 
 
@@ -223,7 +223,8 @@ Adrian.
 # Ideas for essays
 
 # Bibliography
-1. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
-2. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
-3. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
-4. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
+1. Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
+2. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
+3. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
+4. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
+5. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
