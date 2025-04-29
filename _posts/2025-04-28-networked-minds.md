@@ -21,25 +21,30 @@ The coursework will consist of weekly discussions based on the core texts cited 
 
 We kick things off by introducing ourselves, 
 followed by a breakdown of the logistics of the course. 
-And then we play a guessing game and find out about the wisdom of crowds.
+We then get a first glimpse of the wisdom of crowds in a guessing game,
+and hear about the wisdom of the stock market and epistemic democracy.
 
-<!-- <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
-    Logistics
-</a>
+Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
 Adrian.
-<a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
-    Epistemic vs non-epistemic voting
-</a> -->
+<a href = "/content/teaching/2025-ss-networked-minds/01-01-logistics.pdf">Logistics</a>.
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2025-ss-adventures/01-02-wisdom-of-crowds.pdf">Wise Crowds</a>.
+
+Bonus:
+<br>
+<i class="fa-solid fa-video"></i>
+Surowiecki, J. (November 5, 2008).
+<a href = "https://www.youtube.com/watch?v=h-Xm4ufnoxY">The power and the danger of online crowds</a>. TED Talk. 
 
 
 
 
 
-## Week 2. The Condorcet Jury Theorem
+## Week 2. The Condorcet Jury Theorem...
 <div style="text-align: right">
     May 5, 2025
 </div>
@@ -65,7 +70,7 @@ Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocra
 
 
 
-## Week 3. Beyond the Condorcet Jury Theorem
+## Week 3. ... and Beyond
 <div style="text-align: right">
 May 12, 2025
 </div>
@@ -75,7 +80,7 @@ We see whether the insights of the Condorcet Jury Theorem survive when we relax 
 
 
 
-## Week 4. Social Networks: How They Rule our Lives
+## Week 4. Social Networks: Why They Are Important
 
 <div style="text-align: right">
     May 19, 2025
@@ -83,40 +88,47 @@ We see whether the insights of the Condorcet Jury Theorem survive when we relax 
 
 Some outstanding examples of the importance of social networks in our lives.
 
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Christakis & Fowler (2007).
+Granovetter, M. S. (1973). The Strength of Weak Ties. The American Journal of Sociology, 78(6), 1360–1380.
+<br>
+<i class="fas fa-tasks"></i>
+Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
 
 
 
 
-## Week 5. The Hawk-Dove Game and the Emergence of Rights
+
+
+## Week 5. Social Networks: What They Are
 <div style="text-align: right">
     May 26, 2025
 </div>
 
-We learn about the Hawk-Dove game and its role in the emergence of property rights.
+We learn how to represent social networks and some important statistics.
+We learn about centrality measures, and in particular network centrality.
 
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 5.
-
-<i class="fas fa-tasks"></i>
-Skyrms (2014), Chapter 4.
+Jackson (2010). Chapter 2.
 
 
 
 
-## Week 6. Costly Signaling
+
+## Week 6. Naive Learning and Wise Crowds
 <div style="text-align: right">
     June 2, 2024
 </div>
 
-We learn about costly signals and how it influences art, fashion and rap.
+We learn about the DeGroot model of opinion dynamics and consensus to a true opinion.
 
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 6.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 7.
+Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. American Economic Journal: Microeconomics, 2(1), 112–149.
 
 
 
@@ -130,71 +142,71 @@ Whit Monday.
 
 
 
-## Week 8. Evidence Gmes
+## Week 8. Wisdom in the Lab
 <div style="text-align: right">
     June 16, 2025
 </div>
 
-How people treat evidence and decide what to believe.
+We examine some experiments on opinion dynamics.
 
-
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 8.
-
+Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 9.
+Mercier, H., & Claidière, N. (2022). Does discussion make crowds any wiser? Cognition, 222, 104912.
 
 
 
 
-## Week 9. The Prisoner's Dilemma and Cooperation
+
+## Week 9. The Hegselmann-Krause model
 <div style="text-align: right">
     June 23, 2025
 </div>
 
-We learn about the dilemma of altruistic behavior through the Prisoner's Dilemma.
-
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 10.
-
+Hegselmann, R., Krause, U., & Others. (2002). Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of Artificial Societies and Social Simulation, 5(3).
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 11.
+Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: First Steps Towards a Computer Aided Social Epistemology. Journal of Artificial Societies and Social Simulation, 9(3), 10.
 
 
 
 
-## Week 10. Categorical Norms
+## Week 10. Information Cascades
 <div style="text-align: right">
     June 30, 2025
 </div>
 
-We learn about why norms are categorical.
+The folly of crowds: information cascades.
 
-
+Readings:
+<br>
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 12.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 13.
+Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. The Journal of Political Economy, 100(5), 992–1026.
 
 
 
 
-## Week 11. Subgame Perfection and Justice
+## Week 11. TBD
 <div style="text-align: right">
     July 7, 2025
 </div>
 
-How our justice sense is influenced by the idea of subgame perfection.
+<!-- How our justice sense is influenced by the idea of subgame perfection.
 
 <i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 14.
+Hoffman & Yoeli (2022), Chapter 14. -->
 
 
 
 
 
-## Week 12.
+## Week 12. TBD
 <div style="text-align: right">
     July 14, 2025
 </div>
@@ -203,7 +215,7 @@ Hoffman & Yoeli (2022), Chapter 14.
 why groups are wise, and why democracy may work better if people talked
 to each other less. -->
 
-## Week 13. 
+## Week 13. TBD
 <div style="text-align: right">
     July 21, 2025
 </div>
@@ -223,8 +235,14 @@ Adrian.
 # Ideas for essays
 
 # Bibliography
-1. Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
-2. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
-3. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
-4. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
-5. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
+1. Granovetter, M. S. (1973). The Strength of Weak Ties. The American Journal of Sociology, 78(6), 1360–1380.
+2. Banerjee, A. (1992). A Simple Model of Herd Behavior. The Quarterly Journal of Economics, 107(3), 797–817.
+3. Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. The Journal of Political Economy, 100(5), 992–1026.
+4. Hegselmann, R., Krause, U., & Others. (2002). Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of Artificial Societies and Social Simulation, 5(3).
+5. Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: First Steps Towards a Computer Aided Social Epistemology. Journal of Artificial Societies and Social Simulation, 9(3), 10.
+6. Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
+7. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
+8. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
+9. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
+10. Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
+11. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
