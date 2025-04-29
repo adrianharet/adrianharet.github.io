@@ -23,11 +23,11 @@ Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
 Adrian.
-<a href = "/content/teaching/2024-ss-real-life-games/01-01-logistics.pdf">Logistics</a>.
+<a href = "/content/teaching/2025-ss-real-life-games/01-01-logistics.pdf">Logistics</a>.
 <br>
 <i class="fa-solid fa-file-pdf"></i>
 Adrian.
-<a href = "/content/teaching/2024-ss-real-life-games/01-02-guess-average.pdf">Logistics</a>.
+<a href = "/content/teaching/2025-ss-real-life-games/01-02-guess-average.pdf">Logistics</a>.
 
 
 
