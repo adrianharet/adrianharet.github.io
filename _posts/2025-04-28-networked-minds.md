@@ -32,7 +32,7 @@ Adrian.
 <br>
 <i class="fa-solid fa-file-pdf"></i>
 Adrian.
-<a href = "/content/teaching/2025-ss-adventures/01-02-wisdom-of-crowds.pdf">Wise Crowds</a>.
+<a href = "/content/teaching/2025-ss-networked-minds/01-02-wisdom-of-crowds.pdf">Wise Crowds</a>.
 
 Bonus:
 <br>

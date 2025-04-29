@@ -19,18 +19,15 @@ We kick things off by introducing ourselves,
 followed by a breakdown of the logistics of the course. 
 And then we play our first game!
 
-<!-- <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2024-ws-adventures/01-01-logistics.pdf">
-    Logistics
-</a>
+Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
 Adrian.
-<a href = "/content/teaching/2024-ws-adventures/01-02-voting-epistemic-nonepistemic.pdf">
-    Epistemic vs non-epistemic voting
-</a> -->
-
+<a href = "/content/teaching/2024-ss-real-life-games/01-01-logistics.pdf">Logistics</a>.
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian.
+<a href = "/content/teaching/2024-ss-real-life-games/01-02-guess-average.pdf">Logistics</a>.
 
 
 
@@ -42,7 +39,7 @@ Adrian.
 
 We dive into the basics of game theory. 
 We start by defining what a game is, and then look at key notions: 
-strategies (your game plan), payoffs (what you get out of it), \
+strategies (your game plan), payoffs (what you get out of it),
 and equilibria (where everyone’s made their move and no one has a reason to change). 
 
 <!-- <i class="fas fa-tasks"></i>
