@@ -17,7 +17,7 @@ We will explore how game theory, the study of strategic decision-making, can be 
 
 We kick things off by introducing ourselves, 
 followed by a breakdown of the logistics of the course. 
-And then we play our first game!
+And then we play our first game, where we try to guess what others are guessing.
 
 Slides:
 <br>
@@ -36,26 +36,21 @@ Adrian.
 <div style="text-align: right">
     May 5, 2025
 </div>
+We start by playing the <a href="https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Trust_Game">Trust Game</a>, 
+and learn about how behavior in the game varies across the world.
 
-We dive into the basics of game theory. 
+We then dive into the basics of game theory. 
 We start by defining what a game is, and then look at key notions: 
 strategies (your game plan), payoffs (what you get out of it),
 and equilibria (where everyone’s made their move and no one has a reason to change). 
+We see what a Nash equilibrium is, and compare it to Pareto optimal outcomes.
 
-<!-- <i class="fas fa-tasks"></i>
-Lane (2014), Chapter 3
-<br>
-<i class="fas fa-tasks"></i>
-Szpiro (2010), Chapter 1
-<br>
-<i class="fas fa-tasks"></i>
-Lane (2014), Chapter 4 (bonus reading)
 
-<i class="fa-solid fa-file-pdf"></i>
-Adrian. <a href = "/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf">Athenian democracy</a>
+Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf">Plato's critique</a> -->
+Adrian. <a href = "/content/teaching/2025-ss-real-life-games/02-01-game-theory-101.pdf">
+    Game Theory: Games in Normal Form and Pure Nash Equilibria</a>
 
 
 
@@ -66,12 +61,9 @@ Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocra
 May 12, 2025
 </div>
 
-We see our first outstanding application: does game theory explain how football players 
-take penalties?
+We play another game, and then get introduced to the idea of a mixed equilibrium.
 
 
-<i class="fas fa-tasks"></i>
-Palacios-Huerta (2014), Chapter 1
 
 <!-- <i class="fa-solid fa-file-pdf"></i>
 Adrian.
@@ -91,8 +83,13 @@ CGP Grey.
 <div style="text-align: right">
     May 19, 2025
 </div>
+We see our first outstanding application: does game theory explain how football players 
+take penalties?
 
-We get introduced to more ideas of game theory: evolutionary stability, and games in extensive form.
+
+<i class="fas fa-tasks"></i>
+Palacios-Huerta (2014), Chapter 1
+
 
 <!-- We're introduced to the Catalan thinker Ramon Llull.
 Trying to find the most perfect way of electing an abbess, 

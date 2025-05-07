@@ -50,22 +50,13 @@ Surowiecki, J. (November 5, 2008).
 </div>
 
 We see the Condorcet Jury Theorem, the landmark result of the wisdom of crowds.
+We learn about what the theorem says, and see the proof.
 
-<!-- <i class="fas fa-tasks"></i>
-Lane (2014), Chapter 3
-<br>
-<i class="fas fa-tasks"></i>
-Szpiro (2010), Chapter 1
-<br>
-<i class="fas fa-tasks"></i>
-Lane (2014), Chapter 4 (bonus reading)
-
-<i class="fa-solid fa-file-pdf"></i>
-Adrian. <a href = "/content/teaching/2024-ws-adventures/02-01-athenian-democracy.pdf">Athenian democracy</a>
+Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-Nestor. <a href = "/content/teaching/2024-ws-adventures/02-02-nestor-antidemocrat.pdf">Plato's critique</a> -->
-
+Adrian.
+<a href = "/content/teaching/2025-ss-networked-minds/02-01-cjt.pdf">The Condorcet Jury Theorem</a>.
 
 
 
