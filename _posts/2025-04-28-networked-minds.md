@@ -38,7 +38,7 @@ Bonus:
 <br>
 <i class="fa-solid fa-video"></i>
 Surowiecki, J. (November 5, 2008).
-<a href = "https://www.youtube.com/watch?v=h-Xm4ufnoxY">The power and the danger of online crowds</a>. TED Talk. 
+[The power and the danger of online crowds](https://www.youtube.com/watch?v=h-Xm4ufnoxY). TED Talk. 
 
 
 
@@ -85,7 +85,10 @@ Readings:
 Granovetter, M. S. (1973). The Strength of Weak Ties. The American Journal of Sociology, 78(6), 1360–1380.
 <br>
 <i class="fas fa-tasks"></i>
-Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
+Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012). 
+[The role of social networks in information diffusion](https://dl.acm.org/doi/10.1145/2187836.2187907). 
+Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France. 
+
 
 
 
@@ -236,4 +239,7 @@ Adrian.
 8. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
 9. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
 10. Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
-11. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
+11. Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012). 
+[The role of social networks in information diffusion](https://dl.acm.org/doi/10.1145/2187836.2187907). 
+Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France. 
+12. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
