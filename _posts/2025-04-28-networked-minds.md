@@ -27,18 +27,15 @@ and hear about the wisdom of the stock market and epistemic democracy.
 Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2025-ss-networked-minds/01-01-logistics.pdf">Logistics</a>.
+Adrian. [Logistics](/content/teaching/2025-ss-networked-minds/01-01-logistics.pdf).
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2025-ss-networked-minds/01-02-wisdom-of-crowds.pdf">Wise Crowds</a>.
+Adrian. [Wise Crowds](/content/teaching/2025-ss-networked-minds/01-02-wisdom-of-crowds.pdf)
 
-Bonus:
-<br>
-<i class="fa-solid fa-video"></i>
-Surowiecki, J. (November 5, 2008).
-[The power and the danger of online crowds](https://www.youtube.com/watch?v=h-Xm4ufnoxY). TED Talk. 
+
+Bonus:  
+<i class="fa-solid fa-video"></i>  
+Surowiecki, J. (November 5, 2008). [The power and the danger of online crowds](https://www.youtube.com/watch?v=h-Xm4ufnoxY). TED Talk.
 
 
 
@@ -49,14 +46,12 @@ Surowiecki, J. (November 5, 2008).
     May 5, 2025
 </div>
 
-We see the Condorcet Jury Theorem, the landmark result of the wisdom of crowds.
+We see the Condorcet Jury Theorem, the landmark result of the wisdom of crowds.  
 We learn about what the theorem says, and see the proof.
 
-Slides:
-<br>
-<i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2025-ss-networked-minds/02-01-cjt.pdf">The Condorcet Jury Theorem</a>.
+Slides:  
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [The Condorcet Jury Theorem](/content/teaching/2025-ss-networked-minds/02-01-cjt.pdf).
 
 
 
