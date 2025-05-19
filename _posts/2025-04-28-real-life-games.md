@@ -32,7 +32,7 @@ Adrian.
 
 
 
-## Week 2. Game Theory Basics
+## Week 2. Game Theory 101
 <div style="text-align: right">
     May 5, 2025
 </div>
@@ -49,20 +49,23 @@ We see what a Nash equilibrium is, and compare it to Pareto optimal outcomes.
 Slides:
 <br>
 <i class="fa-solid fa-file-pdf"></i>
-Adrian. <a href = "/content/teaching/2025-ss-real-life-games/02-01-game-theory-101.pdf">
-    Game Theory: Games in Normal Form and Pure Nash Equilibria</a>
+Adrian. [Game Theory: Games in Normal Form and Pure Nash Equilibria](/content/teaching/2025-ss-real-life-games/02-01-game-theory-pure-nash-equilibria.pdf)
 
 
 
 
 
-## Week 3. Mixed Strategies in Penalty Shootouts
+## Week 3. The Ultimatum Game and Pareto Optimality
 <div style="text-align: right">
 May 12, 2025
 </div>
 
-We play another game, and then get introduced to the idea of a mixed equilibrium.
+We play the Ultimatum Game, and learn about Pareto optimality and social dilemmas.
 
+Slides:
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian. [The Ultimatum Game & Pareto Optimality](/content/teaching/2025-ss-real-life-games/03-01-game-theory-ultimatum-pareto.pdf)
 
 
 <!-- <i class="fa-solid fa-file-pdf"></i>
@@ -79,12 +82,17 @@ CGP Grey.
 
 
 
-## Week 4. More Game Theory
+## Week 4. Mixed Strategies
 <div style="text-align: right">
     May 19, 2025
 </div>
-We see our first outstanding application: does game theory explain how football players 
-take penalties?
+We learn about mixed strategies and see why John Nash got a Nobel prize.
+
+Slides:
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian. [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
+
 
 
 <i class="fas fa-tasks"></i>
@@ -116,11 +124,24 @@ Szpiro (2010), Chapter 3
 Nicola.
 <a href = "/content/teaching/2024-ws-adventures/04-01-nicola-the-mystic.pdf">The mystic</a> -->
 
-
-
-## Week 5. The Hawk-Dove Game and the Emergence of Rights
+## Week 5. Mixed Strategies in Penalty Shootouts
 <div style="text-align: right">
     May 26, 2025
+</div>
+We see how mixed Nash equilibria are useful in understanding penalty shootouts.
+
+
+Reading:
+<br>
+<i class="fas fa-tasks"></i>
+Palacios-Huerta (2014), Chapter 1
+
+
+
+
+## Week 6. The Hawk-Dove Game and the Emergence of Rights
+<div style="text-align: right">
+    June 2, 2025
 </div>
 
 We learn about the Hawk-Dove game and its role in the emergence of property rights.
@@ -134,9 +155,20 @@ Skyrms (2014), Chapter 4.
 
 
 
-## Week 6. Costly Signaling
+
+
+
+## Week 7. No Lecture Today
 <div style="text-align: right">
-    June 2, 2024
+    June 9, 2025
+</div>
+
+Whit Monday.
+
+
+## Week 8. Costly Signaling
+<div style="text-align: right">
+    June 16, 2024
 </div>
 
 We learn about costly signals and how it influences art, fashion and rap.
@@ -149,19 +181,9 @@ Hoffman & Yoeli (2022), Chapter 7.
 
 
 
-
-## Week 7. No Lecture Today
+## Week 9. Evidence Gmes
 <div style="text-align: right">
-    June 9, 2025
-</div>
-
-Whit Monday.
-
-
-
-## Week 8. Evidence Gmes
-<div style="text-align: right">
-    June 16, 2025
+    June 23, 2025
 </div>
 
 How people treat evidence and decide what to believe.
@@ -176,9 +198,9 @@ Hoffman & Yoeli (2022), Chapter 9.
 
 
 
-## Week 9. The Prisoner's Dilemma and Cooperation
+## Week 10. The Prisoner's Dilemma and Cooperation
 <div style="text-align: right">
-    June 23, 2025
+    June 30, 2025
 </div>
 
 We learn about the dilemma of altruistic behavior through the Prisoner's Dilemma.
@@ -192,9 +214,9 @@ Hoffman & Yoeli (2022), Chapter 11.
 
 
 
-## Week 10. Categorical Norms
+## Week 11. Categorical Norms
 <div style="text-align: right">
-    June 30, 2025
+    July 7, 2025
 </div>
 
 We learn about why norms are categorical.
@@ -209,9 +231,9 @@ Hoffman & Yoeli (2022), Chapter 13.
 
 
 
-## Week 11. Subgame Perfection and Justice
+## Week 12. Subgame Perfection and Justice
 <div style="text-align: right">
-    July 7, 2025
+    July 14, 2025
 </div>
 
 How our justice sense is influenced by the idea of subgame perfection.
@@ -223,19 +245,17 @@ Hoffman & Yoeli (2022), Chapter 14.
 
 
 
-## Week 12.
+## Week 13.
 <div style="text-align: right">
-    July 14, 2025
+    July 21, 2025
 </div>
+
+TBD.
 
 <!-- We see why the many are better than the few,
 why groups are wise, and why democracy may work better if people talked
 to each other less. -->
 
-## Week 13. 
-<div style="text-align: right">
-    July 21, 2025
-</div>
 
 <!-- We talk about the history and mathematics of apportionment 
 for the US House of Representatives.
