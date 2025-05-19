@@ -95,34 +95,6 @@ Adrian. [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-l
 
 
 
-<i class="fas fa-tasks"></i>
-Palacios-Huerta (2014), Chapter 1
-
-
-<!-- We're introduced to the Catalan thinker Ramon Llull.
-Trying to find the most perfect way of electing an abbess, 
-Llull put forward, around 800 years ago, not one, but two (!) voting rules.
-The first is based on counting the number of wins each candidate gets 
-in pairwise contests with the other candidates,
-and is more commonly known today as [Copeland's method](https://en.wikipedia.org/wiki/Copeland%27s_method).
-There is one technicality, which is the possibility of ties, but Llull hand-waived it away. 
-Another problem was that this way of finding a winner took up more resources than were available at the time,
-since it involved running an election for every possible pair of candidates. 
-For 9 candidates, which was the number Llull was dealing with in his example, this amounts to 36 rounds of voting.
-
-Llull tried to circumvent this problem by introducing a variant in which the 
-loser in the first election was eliminated and the winner pitted against a new candidate, and so on, tournament style. 
-This rule is known nowadays, unsurprisingly, as 
-the tournament, or [round-robin](https://en.wikipedia.org/wiki/Round-robin_voting) method of voting.
-While faster (with 9 candidates it requires only rounds of voting), it is sensitive to the order in which candidates 
-are lined up.
-
-<i class="fas fa-tasks"></i>
-Szpiro (2010), Chapter 3
-
-<i class="fa-solid fa-file-pdf"></i>
-Nicola.
-<a href = "/content/teaching/2024-ws-adventures/04-01-nicola-the-mystic.pdf">The mystic</a> -->
 
 ## Week 5. Mixed Strategies in Penalty Shootouts
 <div style="text-align: right">
