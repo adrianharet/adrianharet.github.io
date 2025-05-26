@@ -79,11 +79,11 @@ Sometimes pure strategies are useless, and what you want to do is be unpredictab
 We learn about mixed strategies and see why John Nash got a Nobel prize.
 
 
-#### 📄 Slides
+#### <i class="fa-solid fa-file-pdf"></i> Slides
 **Adrian.**
 [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
 
-#### 🔗 Bonus
+#### <i class="fa-solid fa-link"></i> Bonus
 **Fridman, L.** 
 [@lexfridman]. (2018, December 28). 
 [Tuomas Sandholm: Poker and Game Theory](https://www.youtube.com/watch?v=b7bStIQovcY).
