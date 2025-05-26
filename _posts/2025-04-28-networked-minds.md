@@ -63,13 +63,41 @@ May 12, 2025
 
 We see whether the insights of the Condorcet Jury Theorem survive when we relax some of the basic assumptions.
 
+Slides:  
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [Relaxing the Assumptions of The Condorcet Jury Theorem](/content/teaching/2025-ss-networked-minds/03-01-cjt-relaxed-assumptions.pdf).
 
 
 
-## Week 4. Social Networks: Why They Are Important
+## Week 4. The Optimal Voting Rule & Trade Routes in the Middle Ages
 
 <div style="text-align: right">
     May 19, 2025
+</div>
+
+We learn about the optimal voting rule when competences are known: a weighted voting rule
+that assigns weights proportional to competences.
+
+And then we segue into social networks, by seeing an example with trade routes in the Middle Ages.
+
+Slides:  
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [Weighted Voting Rules](/content/teaching/2025-ss-networked-minds/04-01-weighted-voting-rules.pdf).
+<br>
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [Trade Routes in the Middle Ages](/content/teaching/2025-ss-networked-minds/04-02-medieval-trade-routes.pdf).
+
+
+
+
+
+
+
+
+
+## Week 5. The Strength of Weak Ties
+<div style="text-align: right">
+    May 26, 2025
 </div>
 
 Some outstanding examples of the importance of social networks in our lives.
@@ -85,14 +113,18 @@ Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012).
 Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France. 
 
 
+Slides:  
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [The Strength of Weak Ties](/content/teaching/2025-ss-networked-minds/05-01-strength-weak-ties.pdf).
 
 
 
 
 
-## Week 5. Social Networks: What They Are
+
+## Week 6. Reasoning About Social Networks
 <div style="text-align: right">
-    May 26, 2025
+    June 2, 2024
 </div>
 
 We learn how to represent social networks and some important statistics.
@@ -106,10 +138,18 @@ Jackson (2010). Chapter 2.
 
 
 
-
-## Week 6. Naive Learning and Wise Crowds
+## Week 7. No Lecture Today
 <div style="text-align: right">
-    June 2, 2024
+    June 9, 2025
+</div>
+
+Whit Monday.
+
+
+
+## Week 8. Naive Learning and Wise Crowds: The DeGroot Model
+<div style="text-align: right">
+    June 16, 2025
 </div>
 
 We learn about the DeGroot model of opinion dynamics and consensus to a true opinion.
@@ -122,18 +162,12 @@ Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the W
 
 
 
-## Week 7. No Lecture Today
+
+
+
+## Week 9. Wisdom in the Lab
 <div style="text-align: right">
-    June 9, 2025
-</div>
-
-Whit Monday.
-
-
-
-## Week 8. Wisdom in the Lab
-<div style="text-align: right">
-    June 16, 2025
+    June 23, 2025
 </div>
 
 We examine some experiments on opinion dynamics.
@@ -150,9 +184,9 @@ Mercier, H., & Claidière, N. (2022). Does discussion make crowds any wiser? Cog
 
 
 
-## Week 9. The Hegselmann-Krause model
+## Week 10. The Hegselmann-Krause Model
 <div style="text-align: right">
-    June 23, 2025
+    June 30, 2025
 </div>
 
 Readings:
@@ -166,9 +200,12 @@ Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: Fir
 
 
 
-## Week 10. Information Cascades
+
+
+
+## Week 11. Information Cascades
 <div style="text-align: right">
-    June 30, 2025
+    July 7, 2025
 </div>
 
 The folly of crowds: information cascades.
@@ -178,13 +215,6 @@ Readings:
 <i class="fas fa-tasks"></i>
 Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. The Journal of Political Economy, 100(5), 992–1026.
 
-
-
-
-## Week 11. TBD
-<div style="text-align: right">
-    July 7, 2025
-</div>
 
 <!-- How our justice sense is influenced by the idea of subgame perfection.
 
