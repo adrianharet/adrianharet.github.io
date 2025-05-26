@@ -100,7 +100,7 @@ Adrian. [Trade Routes in the Middle Ages](/content/teaching/2025-ss-networked-mi
     May 26, 2025
 </div>
 
-Some outstanding examples of the importance of social networks in our lives.
+The celebrated strength of weak ties.
 
 Readings:
 <br>
