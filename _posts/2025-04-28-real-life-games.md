@@ -8,7 +8,7 @@ toc: true
 
 We will explore how game theory, the study of strategic decision-making, can be used to explain and predict human behavior across various contexts. Why are we sometimes willing to pay inordinate sums of money for a wrist-watch that tells the time as well as our phones? What explains feuds and long cycles of retaliation? And what is the best way to take a penalty shot? We will see how behaviors that seems puzzling, bizarre, or even irrational reflect some form of strategic thinking, when viewed through a game theory lens. By analyzing real-world scenarios, we will discover how concepts like Nash equilibrium, cooperation, and competition reveal the underlying logic of human choices.
 
-# Week 1. Intro
+## Week 1. Intro and Our First Game
 <div style="text-align: right">
     April 28, 2025
 </div>
@@ -25,7 +25,7 @@ And then we play our first game, where we try to guess what others are guessing.
 
 
 
-# Week 2. Game Theory 101
+## Week 2. The Trust Game and Games in Normal Form.
 <div style="text-align: right">
     May 5, 2025
 </div>
@@ -35,8 +35,8 @@ and learn about how behavior in the game varies across the world.
 We then dive into the basics of game theory. 
 We start by defining what a game is, and then look at key notions: 
 strategies (your game plan), payoffs (what you get out of it),
-and equilibria (where everyone’s made their move and no one has a reason to change). 
-We see what a Nash equilibrium is, and compare it to Pareto optimal outcomes.
+and Nash equilibria (where everyone’s made their move and no one has a reason to change).
+
 
 
 #### <i class="fa-solid fa-file-pdf"></i> Slides
@@ -46,7 +46,7 @@ We see what a Nash equilibrium is, and compare it to Pareto optimal outcomes.
 
 
 
-# Week 3. The Ultimatum Game and Pareto Optimality
+## Week 3. The Ultimatum Game and Pareto Optimality
 <div style="text-align: right">
 May 12, 2025
 </div>
@@ -60,7 +60,7 @@ We play the Ultimatum Game, and learn about Pareto optimality and social dilemma
 
 
 
-# Week 4: Mixed Strategies
+## Week 4: Mixed Strategies
 <div style="text-align: right">
     May 19, 2025
 </div>
@@ -85,7 +85,7 @@ Lex Fridman Podcast #12 [YouTube].
 
 
 
-# Week 5. Mixed Strategies in Penalty Shootouts
+## Week 5. Mixed Strategies in Penalty Shootouts
 <div style="text-align: right">
     May 26, 2025
 </div>
@@ -110,7 +110,7 @@ We see how mixed Nash equilibria are useful in understanding penalty shootouts.
 
 
 
-# Week 6. The Hawk-Dove Game and the Emergence of Rights
+## Week 6. The Hawk-Dove Game and the Emergence of Rights
 <div style="text-align: right">
     June 2, 2025
 </div>
@@ -122,7 +122,6 @@ We learn about the Hawk-Dove game and its role in the emergence of property righ
 
 **Hoffman & Yoeli** (2022), Chapter 5.
 
-
 **Skyrms** (2014), Chapter 4.
 
 
@@ -131,7 +130,7 @@ We learn about the Hawk-Dove game and its role in the emergence of property righ
 
 
 
-# Week 7. No Lecture Today
+## Week 7. No Lecture Today
 <div style="text-align: right">
     June 9, 2025
 </div>
@@ -139,7 +138,7 @@ We learn about the Hawk-Dove game and its role in the emergence of property righ
 Whit Monday.
 
 
-# Week 8. Costly Signaling
+## Week 8. Costly Signaling
 <div style="text-align: right">
     June 16, 2024
 </div>
@@ -154,7 +153,7 @@ Hoffman & Yoeli (2022), Chapter 7.
 
 
 
-# Week 9. Evidence Gmes
+## Week 9. Evidence Gmes
 <div style="text-align: right">
     June 23, 2025
 </div>
@@ -171,7 +170,7 @@ Hoffman & Yoeli (2022), Chapter 9.
 
 
 
-# Week 10. The Prisoner's Dilemma and Cooperation
+## Week 10. The Prisoner's Dilemma and Cooperation
 <div style="text-align: right">
     June 30, 2025
 </div>
@@ -187,7 +186,7 @@ Hoffman & Yoeli (2022), Chapter 11.
 
 
 
-# Week 11. Categorical Norms
+## Week 11. Categorical Norms
 <div style="text-align: right">
     July 7, 2025
 </div>
@@ -204,7 +203,7 @@ Hoffman & Yoeli (2022), Chapter 13.
 
 
 
-# Week 12. Subgame Perfection and Justice
+## Week 12. Subgame Perfection and Justice
 <div style="text-align: right">
     July 14, 2025
 </div>
@@ -218,7 +217,7 @@ Hoffman & Yoeli (2022), Chapter 14.
 
 
 
-# Week 13.
+## Week 13.
 <div style="text-align: right">
     July 21, 2025
 </div>
@@ -228,9 +227,9 @@ TBD.
 
 
 
-# Ideas for essays
+## Ideas for essays
 
-# Bibliography
+## Bibliography
 1. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
 2. Palacios-Huerta, I. (2014). Beautiful Game Theory: How Soccer Can Help Economics. Princeton University Press.
 3. Skyrms, B. (2014). Evolution of the Social Contract (2nd ed.). Cambridge University Press.
