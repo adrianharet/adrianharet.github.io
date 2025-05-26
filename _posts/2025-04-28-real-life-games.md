@@ -68,38 +68,30 @@ Slides:
 Adrian. [The Ultimatum Game & Pareto Optimality](/content/teaching/2025-ss-real-life-games/03-01-game-theory-ultimatum-pareto.pdf)
 
 
-<!-- <i class="fa-solid fa-file-pdf"></i>
-Adrian.
-<a href = "/content/teaching/2024-ws-adventures/03-02-plurality-and-its-discontents.pdf">Plurality and Its Discontents</a>
-<br>
-<i class="fa-solid fa-link"></i>
-CGP Grey. 
-<a href = "https://www.youtube.com/watch?v=s7tWHJfhiyo">Minority Rule: First Past the Post Voting</a>. YouTube
-<br>
-<span style='margin-left:16px;font-size:13px'>
-    Nice illustration of Duverger's law.
-</span> -->
 
 
-
-## Week 4. Mixed Strategies
+## Week 4: Mixed Strategies
 <div style="text-align: right">
     May 19, 2025
 </div>
+
+Sometimes pure strategies are useless, and what you want to do is be unpredictable.
 We learn about mixed strategies and see why John Nash got a Nobel prize.
 
-Slides:
-<br>
-<i class="fa-solid fa-file-pdf"></i>
-Adrian. [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
 
-Bonus:
-<br>
-<i class="fa-solid fa-link"></i>
-Fridman, L. [@lexfridman]. (2018, December 28). [Tuomas Sandholm: Poker and Game Theory | Lex Fridman Podcast #12](https://www.youtube.com/watch?v=b7bStIQovcY). Youtube.
+### 📄 Slides
+**Adrian.**
+[Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
 
-In this video Lex Fridman interviews Tuomas Sandholm, who led a team that created an artificial agent that played Texas Hold'em Poker. The link is to a specific moment
-where Sandholm talks about the Nash equilibrium and why it is crucial to playing a game, but the whole interview is very interesting.
+### 🔗 Bonus
+**Fridman, L.** 
+[@lexfridman]. (2018, December 28). 
+[Tuomas Sandholm: Poker and Game Theory | Lex Fridman Podcast #12](https://www.youtube.com/watch?v=b7bStIQovcY).
+YouTube.
+
+- **About this video:** In this interview, Lex Fridman talks to Tuomas Sandholm, who led a team that created an artificial agent for playing Texas Hold'em Poker. The link points to a specific moment where Sandholm discusses the Nash equilibrium and its crucial role in game strategy, though the entire interview offers fascinating insights.
+
+
 
 
 
