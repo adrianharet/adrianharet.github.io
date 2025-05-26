@@ -93,6 +93,14 @@ Slides:
 <i class="fa-solid fa-file-pdf"></i>
 Adrian. [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
 
+Bonus:
+<br>
+<i class="fa-solid fa-link"></i>
+Fridman, L. [@lexfridman]. (2018, December 28). [Tuomas Sandholm: Poker and Game Theory | Lex Fridman Podcast #12](https://www.youtube.com/watch?v=b7bStIQovcY). Youtube.
+
+In this video Lex Fridman interviews Tuomas Sandholm, who led a team that created an artificial agent that played Texas Hold'em Poker. The link is to a specific moment
+where Sandholm talks about the Nash equilibrium and why it is crucial to playing a game, but the whole interview is very interesting.
+
 
 
 
@@ -108,6 +116,18 @@ Reading:
 <i class="fas fa-tasks"></i>
 Palacios-Huerta (2014), Chapter 1
 
+Slides:
+<br>
+<i class="fa-solid fa-file-pdf"></i>
+Adrian. [Penalty Shootouts and The Minimax Theorem](/content/teaching/2025-ss-real-life-games/05-01-minimax-penalty-kicks.pdf)
+
+Bonus:
+<br>
+<i class="fa-solid fa-link"></i>
+Palacios-Huerta, I. (2017, October 17). [Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c) [Youtube]. TEDxUDeusto.
+<br>
+<i class="fa-solid fa-link"></i>
+[Are football players Game Theorists? Scoring the perfect penalty, with Ben Lyttleton](https://tws-gamechanger.libsyn.com/are-football-players-game-theorists-scoring-the-perfect-penalty-with-ben-lyttleton) (2022, November 22). In Game Changers: The Game Theory Podcast.
 
 
 
