@@ -93,8 +93,6 @@ Adrian. [Trade Routes in the Middle Ages](/content/teaching/2025-ss-networked-mi
 
 
 
-
-
 ## Week 5. The Strength of Weak Ties
 <div style="text-align: right">
     May 26, 2025
