@@ -79,15 +79,15 @@ Sometimes pure strategies are useless, and what you want to do is be unpredictab
 We learn about mixed strategies and see why John Nash got a Nobel prize.
 
 
-### 📄 Slides
+#### 📄 Slides
 **Adrian.**
 [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf)
 
-### 🔗 Bonus
+#### 🔗 Bonus
 **Fridman, L.** 
 [@lexfridman]. (2018, December 28). 
-[Tuomas Sandholm: Poker and Game Theory | Lex Fridman Podcast #12](https://www.youtube.com/watch?v=b7bStIQovcY).
-YouTube.
+[Tuomas Sandholm: Poker and Game Theory](https://www.youtube.com/watch?v=b7bStIQovcY).
+Lex Fridman Podcast #12 [YouTube].
 
 - **About this video:** In this interview, Lex Fridman talks to Tuomas Sandholm, who led a team that created an artificial agent for playing Texas Hold'em Poker. The link points to a specific moment where Sandholm discusses the Nash equilibrium and its crucial role in game strategy, though the entire interview offers fascinating insights.
 
@@ -116,7 +116,7 @@ Adrian. [Penalty Shootouts and The Minimax Theorem](/content/teaching/2025-ss-re
 Bonus:
 <br>
 <i class="fa-solid fa-link"></i>
-Palacios-Huerta, I. (2017, October 17). [Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c) [Youtube]. TEDxUDeusto.
+Palacios-Huerta, I. (2017, October 17). [Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c). TEDxUDeusto [Youtube].
 <br>
 <i class="fa-solid fa-link"></i>
 [Are football players Game Theorists? Scoring the perfect penalty, with Ben Lyttleton](https://tws-gamechanger.libsyn.com/are-football-players-game-theorists-scoring-the-perfect-penalty-with-ben-lyttleton) (2022, November 22). In Game Changers: The Game Theory Podcast.
