@@ -16,7 +16,6 @@ followed by a breakdown of the logistics of the course.
 And then we play our first game, where we try to guess what others are guessing.
 
 #### <i class="fa-solid fa-file-pdf"></i> Slides
-
 **Adrian**. [Logistics](/content/teaching/2025-ss-real-life-games/01-01-logistics.pdf).<br>
 **Adrian**. [Can You Guess 2/3 of the Average?](/content/teaching/2025-ss-real-life-games/01-02-guess-average.pdf).
 
@@ -24,9 +23,8 @@ And then we play our first game, where we try to guess what others are guessing.
 
 
 ## Week 2. The Trust Game and Games in Normal Form
-<div style="text-align: right">
-    May 5, 2025
-</div>
+<div style="text-align: right">May 5, 2025</div>
+
 We start by playing the <a href="https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics/Trust_Game">Trust Game</a>, 
 and learn about how behavior in the game varies across the world.
 
@@ -99,10 +97,9 @@ We see how mixed Nash equilibria are useful in understanding penalty shootouts.
 #### <i class="fa-solid fa-link"></i> Bonus
 
 **Palacios-Huerta, I.** (2017, October 17). 
-[Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c). TEDxUDeusto [Youtube].
-<br>
-<i class="fa-solid fa-link"></i>
-[Are football players Game Theorists? Scoring the perfect penalty, with Ben Lyttleton](https://tws-gamechanger.libsyn.com/are-football-players-game-theorists-scoring-the-perfect-penalty-with-ben-lyttleton) (2022, November 22). In Game Changers: The Game Theory Podcast.
+[Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c). TEDxUDeusto [Youtube].<br>
+[Are Football Players Game Theorists? Scoring the Perfect Penalty, with Ben Lyttleton](https://tws-gamechanger.libsyn.com/are-football-players-game-theorists-scoring-the-perfect-penalty-with-ben-lyttleton) (2022, November 22). 
+In *Game Changers: The Game Theory Podcast*.
 
 
 
