@@ -9,9 +9,7 @@ toc: true
 We will explore how game theory, the study of strategic decision-making, can be used to explain and predict human behavior across various contexts. Why are we sometimes willing to pay inordinate sums of money for a wrist-watch that tells the time as well as our phones? What explains feuds and long cycles of retaliation? And what is the best way to take a penalty shot? We will see how behaviors that seems puzzling, bizarre, or even irrational reflect some form of strategic thinking, when viewed through a game theory lens. By analyzing real-world scenarios, we will discover how concepts like Nash equilibrium, cooperation, and competition reveal the underlying logic of human choices.
 
 ## Week 1. Intro and Our First Game
-<div style="text-align: right">
-    April 28, 2025
-</div>
+<div style="text-align: right">April 28, 2025 </div>
 
 We kick things off by introducing ourselves, 
 followed by a breakdown of the logistics of the course. 
@@ -25,7 +23,7 @@ And then we play our first game, where we try to guess what others are guessing.
 
 
 
-## Week 2. The Trust Game and Games in Normal Form.
+## Week 2. The Trust Game and Games in Normal Form
 <div style="text-align: right">
     May 5, 2025
 </div>
@@ -36,8 +34,6 @@ We then dive into the basics of game theory.
 We start by defining what a game is, and then look at key notions: 
 strategies (your game plan), payoffs (what you get out of it),
 and Nash equilibria (where everyone’s made their move and no one has a reason to change).
-
-
 
 #### <i class="fa-solid fa-file-pdf"></i> Slides
 **Adrian**. [Game Theory: Games in Normal Form and Pure Nash Equilibria](/content/teaching/2025-ss-real-life-games/02-01-game-theory-pure-nash-equilibria.pdf).
@@ -92,15 +88,15 @@ Lex Fridman Podcast #12 [YouTube].
 We see how mixed Nash equilibria are useful in understanding penalty shootouts.
 
 
-#### <i class="fas fa-tasks"></i> Reading:
+#### <i class="fas fa-tasks"></i> Reading
 
 **Palacios-Huerta, I.** (2014), Chapter 1.
 
-#### <i class="fa-solid fa-file-pdf"></i> Slides:
+#### <i class="fa-solid fa-file-pdf"></i> Slides
 
 **Adrian**. [Penalty Shootouts and The Minimax Theorem](/content/teaching/2025-ss-real-life-games/05-01-minimax-penalty-kicks.pdf).
 
-#### <i class="fa-solid fa-link"></i> Bonus:
+#### <i class="fa-solid fa-link"></i> Bonus
 
 **Palacios-Huerta, I.** (2017, October 17). 
 [Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c). TEDxUDeusto [Youtube].
@@ -118,7 +114,7 @@ We see how mixed Nash equilibria are useful in understanding penalty shootouts.
 We learn about the Hawk-Dove game and its role in the emergence of property rights.
 
 
-#### <i class="fas fa-tasks"></i> Reading:
+#### <i class="fas fa-tasks"></i> Reading
 
 **Hoffman & Yoeli** (2022), Chapter 5.
 
