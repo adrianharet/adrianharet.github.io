@@ -155,14 +155,14 @@ Whit Monday.
 
 
 
-## Week 8. The Prisoner's Dilemma and Cooperation
+## Week 8. The Repeated Prisoner's Dilemma and Mechanisms of Cooperation
 <div style="text-align: right">
     June 16, 2025
 </div>
 
 We return to the Prisoner's Dilemma and learn about the dilemma of altruistic behavior.
 We see that it might make sense to cooperate if players expect to see each other again the next day...
-and if they expect they'll get punished if they don't
+and if they expect they'll get punished if they don't.
 
 <i class="fas fa-tasks"></i>
 Hoffman & Yoeli (2022), Chapter 10.
@@ -173,10 +173,30 @@ Hoffman & Yoeli (2022), Chapter 11.
 
 
 
-
-## Week 9. Costly Signaling
+## Week 9. Kin Selection and WEIRD Psychologies
 <div style="text-align: right">
     June 23, 2025
+</div>
+
+We stay with the problem of cooperation and study one of the most powerful mechanisms
+used to explain cooperation in much of the living world: kin selection.
+
+We then see what happens when intensive kinship ties are challenged.
+
+<i class="fas fa-tasks"></i>
+McElreath & Boyd (2008). Chapter 3, up to (and including) Section 3.3.
+
+<i class="fas fa-tasks"></i>
+Schulz, J. F., Bahrami-Rad, D., Beauchamp, J. P., & Henrich, J. (2019). The Church, intensive kinship, and global psychological variation. Science, 366(6466), eaau5141.
+
+
+
+
+
+
+## Week 10. Costly Signaling
+<div style="text-align: right">
+    June 30, 2025
 </div>
 
 We learn about costly signals and how it influences art, fashion and rap.
@@ -189,9 +209,9 @@ Hoffman & Yoeli (2022), Chapter 7.
 
 
 
-## Week 10. Evidence Games
+## Week 11. Evidence Games
 <div style="text-align: right">
-    June 30, 2025
+    July 7, 2025
 </div>
 
 How people treat evidence and decide what to believe.
@@ -207,9 +227,9 @@ Hoffman & Yoeli (2022), Chapter 9.
 
 
 
-## Week 11. Categorical Norms
+## Week 12. Categorical Norms
 <div style="text-align: right">
-    July 7, 2025
+    July 14, 2025
 </div>
 
 We learn about why norms are categorical.
@@ -224,9 +244,9 @@ Hoffman & Yoeli (2022), Chapter 13.
 
 
 
-## Week 12. Subgame Perfection and Justice
+## Week 13. Subgame Perfection and Justice
 <div style="text-align: right">
-    July 14, 2025
+    July 21, 2025
 </div>
 
 How our justice sense is influenced by the idea of subgame perfection.
@@ -238,21 +258,14 @@ Hoffman & Yoeli (2022), Chapter 14.
 
 
 
-## Week 13.
-<div style="text-align: right">
-    July 21, 2025
-</div>
-
-TBD.
-
-
-
 
 ## Ideas for essays
 
 ## Bibliography
-1. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
-2. Palacios-Huerta, I. (2014). Beautiful Game Theory: How Soccer Can Help Economics. Princeton University Press.
-3. Skyrms, B. (2014). Evolution of the Social Contract (2nd ed.). Cambridge University Press.
-4. Hoffman, M., & Yoeli, E. (2022). Hidden Games: The Surprising Power of Game Theory to Explain Irrational Human Behavior. Basic Books.
-5. Carpenter, J., & Robbett, A. (2022). Game Theory and Behavior. MIT Press.
+1. McElreath, R., & Boyd, R. (2008). Mathematical Models of Social Evolution: A Guide for the Perplexed. University of Chicago Press.
+2. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
+3. Palacios-Huerta, I. (2014). Beautiful Game Theory: How Soccer Can Help Economics. Princeton University Press.
+4. Skyrms, B. (2014). Evolution of the Social Contract (2nd ed.). Cambridge University Press.
+5. Schulz, J. F., Bahrami-Rad, D., Beauchamp, J. P., & Henrich, J. (2019). The Church, intensive kinship, and global psychological variation. Science, 366(6466), eaau5141.
+6. Hoffman, M., & Yoeli, E. (2022). Hidden Games: The Surprising Power of Game Theory to Explain Irrational Human Behavior. Basic Books.
+7. Carpenter, J., & Robbett, A. (2022). Game Theory and Behavior. MIT Press.
