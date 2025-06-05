@@ -103,12 +103,32 @@ In *Game Changers: The Game Theory Podcast*.
 
 
 
-## Week 6. The Hawk-Dove Game and the Emergence of Rights
+## Week 6. The Hawk-Dove Game and Property Rights
 <div style="text-align: right">
     June 2, 2025
 </div>
 
-We learn about the Hawk-Dove game and its role in the emergence of property rights.
+We learn about the Hawk-Dove game, where the pure Nash equilibria revolve around a winner (the Hawk)
+and a loser (the Dove): the alternatives, which involve either conflict or passivity, make it tempting 
+for at least one player to switch. But, we've seen, this raises an additional problem: why would anyone 
+stay in an equilibrium where they are the loser? More generally, when there are several equilibria,
+which one gets implemented?
+
+Hoffman and Yoeli (see the reading) suggest that the answer lies in uncorrelated equilibria:
+clear, observable features that players can exploit to decide who plays Hawk and who plays Dove.
+Chapter 5 of their book argues that everyday 'rights' are like peacekeeping conventions: 
+in any hawk-dove confrontation (e.g., over taxi fares, sun-lounger spots, or territory) 
+people (and animals) latch onto arbitrary, payoff-neutral cues like first arrival, continuous possession, 
+or even a color tag to decide who plays Hawk and who yields. Once everyone recognizes the cue, 
+expectations lock in and fights become irrational. With humans courts and constitutions hard-wire the rule, 
+and the resulting equilibrium can feel so natural that even the disadvantaged internalize it. 
+All until two sides invoke incompatible cues, at which point the gloves come off.
+
+Skyrms (see the reading) takes this idea a bit further, by suggesting that such asymmetries can be
+based on randomization strategies: instead of using who-came-first cues, players can flip a coin to 
+decide who is the Hawk and who is the Dove. This principle is at work in that most mundane of randomization devices,
+traffic stop-lights, and behind the (important) idea of a [correlated equilibrium](https://en.wikipedia.org/wiki/Correlated_equilibrium).
+
 
 
 #### <i class="fas fa-tasks"></i> Reading
@@ -117,6 +137,9 @@ We learn about the Hawk-Dove game and its role in the emergence of property righ
 
 **Skyrms** (2014), Chapter 4.
 
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+**Laurin**. [Hawk-Dove Games](/content/teaching/2025-ss-real-life-games/06-01-hawk-dove-property.pdf).
 
 
 
@@ -131,9 +154,29 @@ We learn about the Hawk-Dove game and its role in the emergence of property righ
 Whit Monday.
 
 
-## Week 8. Costly Signaling
+
+## Week 8. The Prisoner's Dilemma and Cooperation
 <div style="text-align: right">
-    June 16, 2024
+    June 16, 2025
+</div>
+
+We return to the Prisoner's Dilemma and learn about the dilemma of altruistic behavior.
+We see that it might make sense to cooperate if players expect to see each other again the next day...
+and if they expect they'll get punished if they don't
+
+<i class="fas fa-tasks"></i>
+Hoffman & Yoeli (2022), Chapter 10.
+
+<i class="fas fa-tasks"></i>
+Hoffman & Yoeli (2022), Chapter 11.
+
+
+
+
+
+## Week 9. Costly Signaling
+<div style="text-align: right">
+    June 23, 2025
 </div>
 
 We learn about costly signals and how it influences art, fashion and rap.
@@ -146,9 +189,9 @@ Hoffman & Yoeli (2022), Chapter 7.
 
 
 
-## Week 9. Evidence Gmes
+## Week 10. Evidence Games
 <div style="text-align: right">
-    June 23, 2025
+    June 30, 2025
 </div>
 
 How people treat evidence and decide what to believe.
@@ -160,21 +203,6 @@ Hoffman & Yoeli (2022), Chapter 8.
 <i class="fas fa-tasks"></i>
 Hoffman & Yoeli (2022), Chapter 9.
 
-
-
-
-## Week 10. The Prisoner's Dilemma and Cooperation
-<div style="text-align: right">
-    June 30, 2025
-</div>
-
-We learn about the dilemma of altruistic behavior through the Prisoner's Dilemma.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 10.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 11.
 
 
 
