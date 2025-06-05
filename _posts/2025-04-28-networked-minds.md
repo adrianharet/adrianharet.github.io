@@ -134,6 +134,12 @@ Readings:
 Jackson (2010). Chapter 2.
 
 
+Slides:  
+<i class="fa-solid fa-file-pdf"></i> 
+Adrian. [Network Measures](/content/teaching/2025-ss-networked-minds/06-01-network-measures.pdf).
+
+
+
 
 
 ## Week 7. No Lecture Today
