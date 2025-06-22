@@ -68,12 +68,12 @@ We learn about mixed strategies and see why John Nash got a Nobel prize.
 [Mixed Strategies and Mixed Equilibria](/content/teaching/2025-ss-real-life-games/04-01-game-theory-mixed-nash.pdf).
 
 #### <i class="fa-solid fa-link"></i> Bonus
-**Fridman, L.** 
+Fridman, L.
 [@lexfridman]. (2018, December 28). 
 [Tuomas Sandholm: Poker and Game Theory](https://www.youtube.com/watch?v=b7bStIQovcY).
 Lex Fridman Podcast #12 [YouTube].
 
-- **About the video:** Lex Fridman talks to Tuomas Sandholm, who led a team that created an artificial agent for playing Texas Hold'em Poker. The link points to a specific moment where Sandholm discusses the Nash equilibrium and its crucial role in ensuring the success of the agent, though the entire interview is very interesting.
+- Lex Fridman talks to Tuomas Sandholm, who led a team that created an artificial agent for playing Texas Hold'em Poker. The link points to a specific moment where Sandholm discusses the Nash equilibrium and its crucial role in ensuring the success of the agent, though the entire interview is very interesting.
 
 
 
@@ -96,7 +96,7 @@ We see how mixed Nash equilibria are useful in understanding penalty shootouts.
 
 #### <i class="fa-solid fa-link"></i> Bonus
 
-**Palacios-Huerta, I.** (2017, October 17). 
+Palacios-Huerta, I. (2017, October 17). 
 [Beautiful Game Theory, Beautiful Economics](https://www.youtube.com/watch?v=OlNIky8n57c). TEDxUDeusto [Youtube].<br>
 [Are Football Players Game Theorists? Scoring the Perfect Penalty, with Ben Lyttleton](https://tws-gamechanger.libsyn.com/are-football-players-game-theorists-scoring-the-perfect-penalty-with-ben-lyttleton) (2022, November 22). 
 In *Game Changers: The Game Theory Podcast*.
@@ -133,13 +133,13 @@ traffic stop-lights, and behind the (important) idea of a [correlated equilibriu
 
 #### <i class="fas fa-tasks"></i> Reading
 
-**Hoffman & Yoeli** (2022), Chapter 5.
+Hoffman & Yoeli (2022), Chapter 5.
 
-**Skyrms** (2014), Chapter 4.
+Skyrms (2014), Chapter 4.
 
 #### <i class="fa-solid fa-file-pdf"></i> Slides
 
-**Laurin**. [Hawk-Dove Games](/content/teaching/2025-ss-real-life-games/06-01-hawk-dove-property.pdf).
+Laurin. [Hawk-Dove Games](/content/teaching/2025-ss-real-life-games/06-01-hawk-dove-property.pdf).
 
 
 
@@ -164,18 +164,38 @@ We return to the Prisoner's Dilemma and learn about the dilemma of altruistic be
 We see that it might make sense to cooperate if players expect to see each other again the next day...
 and if they expect they'll get punished if they don't.
 
-<i class="fas fa-tasks"></i>
+#### <i class="fas fa-tasks"></i> Reading
 Hoffman & Yoeli (2022), Chapter 10.
 
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 11.
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+Adrian. [Cooperation and the Repeated Prisoner's Dilemma](/content/teaching/2025-ss-real-life-games/08-01-cooperation-repeated-pd.pdf).
+
+#### <i class="fa-solid fa-link"></i> Bonus
+
+Veritasium (December 23, 2023). 
+[What Game Theory Reveals About War and Conflict](https://www.youtube.com/watch?v=mScpHTIi-kM). Veritasium [Youtube].
+  - Features the famous Axelrod tournament, which we didn't get to in class. With a cameo from Robert Axelrod himself!
 
 
 
 
-## Week 9. Kin Selection and WEIRD Psychologies
+## Week 9. Class Canceled
 <div style="text-align: right">
     June 23, 2025
+</div>
+
+Not feeling well, sorry!
+
+
+
+
+
+
+
+## Week 10. Kin Selection and WEIRD Psychologies
+<div style="text-align: right">
+    June 30, 2025
 </div>
 
 We stay with the problem of cooperation and study one of the most powerful mechanisms
@@ -183,76 +203,60 @@ used to explain cooperation in much of the living world: kin selection.
 
 We then see what happens when intensive kinship ties are challenged.
 
-<i class="fas fa-tasks"></i>
-McElreath & Boyd (2008). Chapter 3, up to (and including) Section 3.3.
+#### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
+McElreath & Boyd (2008). Chapter 3, up to (and including) Section 3.3.<br>
 Schulz, J. F., Bahrami-Rad, D., Beauchamp, J. P., & Henrich, J. (2019). The Church, intensive kinship, and global psychological variation. Science, 366(6466), eaau5141.
 
 
 
 
 
-
-## Week 10. Costly Signaling
-<div style="text-align: right">
-    June 30, 2025
-</div>
-
-We learn about costly signals and how it influences art, fashion and rap.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 6.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 7.
-
-
-
-## Week 11. Evidence Games
+## Week 11. Punishment as a Mechanism for Cooperation
 <div style="text-align: right">
     July 7, 2025
 </div>
 
-How people treat evidence and decide what to believe.
 
+#### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 8.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 9.
+Hoffman & Yoeli (2022), Chapter 11.
 
 
 
 
 
-## Week 12. Categorical Norms
+
+
+
+
+
+## Week 12. Costly Signals
 <div style="text-align: right">
     July 14, 2025
 </div>
 
-We learn about why norms are categorical.
+We learn about costly signals and how it influences art, fashion and rap.
 
+#### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 12.
-
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 13.
+Hoffman & Yoeli (2022), Chapter 6.<br>
+Hoffman & Yoeli (2022), Chapter 7.
 
 
 
 
-## Week 13. Subgame Perfection and Justice
+## Week 13. The Game Theory of Beliefs
 <div style="text-align: right">
     July 21, 2025
 </div>
 
-How our justice sense is influenced by the idea of subgame perfection.
+How people treat evidence and decide what to believe.
 
-<i class="fas fa-tasks"></i>
-Hoffman & Yoeli (2022), Chapter 14.
+#### <i class="fas fa-tasks"></i> Reading
+
+Hoffman & Yoeli (2022), Chapter 8.<br>
+Hoffman & Yoeli (2022), Chapter 9.
 
 
 
