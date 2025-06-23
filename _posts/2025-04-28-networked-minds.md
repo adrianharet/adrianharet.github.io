@@ -161,7 +161,7 @@ Adrian. [Centrality Measures in Social Networks](/content/teaching/2025-ss-netwo
 
 
 
-## Week 9. Class Canceled
+## Week 9. No Lecture Today
 <div style="text-align: right">
     June 23, 2025
 </div>
