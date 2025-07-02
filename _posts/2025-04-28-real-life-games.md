@@ -208,7 +208,9 @@ We then see what happens when intensive kinship ties are challenged.
 McElreath & Boyd (2008). Chapter 3, up to (and including) Section 3.3.<br>
 Schulz, J. F., Bahrami-Rad, D., Beauchamp, J. P., & Henrich, J. (2019). The Church, intensive kinship, and global psychological variation. Science, 366(6466), eaau5141.
 
+#### <i class="fa-solid fa-file-pdf"></i> Slides
 
+Adrian. [Cooperation, Kin Selection and WEIRD Societies](/content/teaching/2025-ss-real-life-games/10-01-cooperation-kin-selection.pdf).
 
 
 
@@ -216,6 +218,9 @@ Schulz, J. F., Bahrami-Rad, D., Beauchamp, J. P., & Henrich, J. (2019). The Chur
 <div style="text-align: right">
     July 7, 2025
 </div>
+
+We look at an obvious mechanism to squeeze cooperation out: punishment.
+We learn about the dilemma of punishment and social norms.
 
 
 #### <i class="fas fa-tasks"></i> Reading

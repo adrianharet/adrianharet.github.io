@@ -185,6 +185,9 @@ and we study the conditions under which the group can converge to a true opinion
 
 Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. American Economic Journal: Microeconomics, 2(1), 112–149.
 
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+Adrian. [The DeGroot Model and Naively Wise Crowds](/content/teaching/2025-ss-networked-minds/10-01-naive-learning-wisdom-crowds.pdf).
 
 
 
