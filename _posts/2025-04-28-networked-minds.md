@@ -197,6 +197,8 @@ Adrian. [The DeGroot Model and Naively Wise Crowds](/content/teaching/2025-ss-ne
     July 7, 2025
 </div>
 
+We learn about the Hegselmann-Krause model.
+
 #### <i class="fas fa-tasks"></i> Reading
 
 <i class="fas fa-tasks"></i>
@@ -209,7 +211,7 @@ Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: Fir
 
 
 
-## Week 12. TBD
+## Week 12. Discussion and Wisdom
 <div style="text-align: right">
     July 14, 2025
 </div>
