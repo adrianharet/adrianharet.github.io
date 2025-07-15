@@ -241,7 +241,6 @@ The folly of crowds: information cascades and polarization.
 
 #### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
 Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. The Journal of Political Economy, 100(5), 992–1026.
 
 
@@ -268,5 +267,5 @@ Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion
 14. Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012). [The role of social networks in information diffusion](https://dl.acm.org/doi/10.1145/2187836.2187907). Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France.
 15. McCannon, B. C., & Walker, P. (2016). Endogenous competence and a limit to the Condorcet Jury Theorem. Public Choice, 169(1), 1–18.
 16. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
-17. Michelini, M., Haret, A., & Grossi, D. (2022, July). Group wisdom at a price: Jury theorems with costly information. IJCAI. Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}, Vienna, Austria.
+17. Michelini, M., Haret, A., & Grossi, D. (2022). Group wisdom at a price: Jury theorems with costly information. IJCAI. Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}, Vienna, Austria.
 
