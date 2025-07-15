@@ -251,20 +251,24 @@ Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion
 
 
 # Ideas for essays
+1. In the Condorcet Jury Theorem competence (the probability of voting correctly) is generally taken to be given. In real life, competence is usually the result of some effort (research, training, etc). If we assume that voters can decide whether to expend the effort, or how much effort to invest, does the wisdom of crowds effect still occur? See [4, 8, 15, 17].
 
 # Bibliography
 1. Granovetter, M. S. (1973). The Strength of Weak Ties. The American Journal of Sociology, 78(6), 1360–1380.
 2. Banerjee, A. (1992). A Simple Model of Herd Behavior. The Quarterly Journal of Economics, 107(3), 797–817.
 3. Bikhchandani, S., Hirshleifer, D., & Welch, I. (1992). A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades. The Journal of Political Economy, 100(5), 992–1026.
-4. Hegselmann, R., Krause, U., & Others. (2002). Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of Artificial Societies and Social Simulation, 5(3).
-5. Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: First Steps Towards a Computer Aided Social Epistemology. Journal of Artificial Societies and Social Simulation, 9(3), 10.
-6. Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
-7. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
-8. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
-9. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
-10. Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. American Economic Journal: Microeconomics, 2(1), 112–149.
-11. Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
-12. Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012). 
-[The role of social networks in information diffusion](https://dl.acm.org/doi/10.1145/2187836.2187907). 
-Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France. 
-1.  Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
+4. Ben-Yashar, R., & Nitzan, S. (2001). The invalidity of the Condorcet Jury Theorem under endogenous decisional skills. Economics of Governance, 2(3), 243–249.
+5. Hegselmann, R., Krause, U., & Others. (2002). Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of Artificial Societies and Social Simulation, 5(3).
+6. Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: First Steps Towards a Computer Aided Social Epistemology. Journal of Artificial Societies and Social Simulation, 9(3), 10.
+7. Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370–379.
+8. Gerardi, D., & Yariv, L. (2008). Information acquisition in committees. Games and Economic Behavior, 62(2), 436–459.
+9. Christakis, N. A., & Fowler, J. H. (2009). Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives. Little Brown and Company.
+10. Easley, D., & Kleinberg, J. (2010). Networks, Crowds, and Markets. Cambridge University Press.
+11. Jackson, M. O. (2010). Social and Economic Networks. Princeton University Press.
+12. Golub, B., & Jackson, M. O. (2010). Naïve Learning in Social Networks and the Wisdom of Crowds. American Economic Journal: Microeconomics, 2(1), 112–149.
+13. Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
+14. Bakshy, E., Rosenn, I., Marlow, C., & Adamic, L. (2012). [The role of social networks in information diffusion](https://dl.acm.org/doi/10.1145/2187836.2187907). Proceedings of the 21st International Conference on World Wide Web. WWW 2012: 21st World Wide Web Conference 2012, Lyon France.
+15. McCannon, B. C., & Walker, P. (2016). Endogenous competence and a limit to the Condorcet Jury Theorem. Public Choice, 169(1), 1–18.
+16. Jackson, M. O. (2019). The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors. Knopf Doubleday.
+17. Michelini, M., Haret, A., & Grossi, D. (2022, July). Group wisdom at a price: Jury theorems with costly information. IJCAI. Thirty-First International Joint Conference on Artificial Intelligence {IJCAI-22}, Vienna, Austria.
+
