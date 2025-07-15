@@ -222,10 +222,9 @@ We read about some experimental results.
 
 #### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
+
 Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. PNAS, 108(22), 9020–9025.
 <br>
-<i class="fas fa-tasks"></i>
 Mercier, H., & Claidière, N. (2022). Does discussion make crowds any wiser? Cognition, 222, 104912.
 
 
