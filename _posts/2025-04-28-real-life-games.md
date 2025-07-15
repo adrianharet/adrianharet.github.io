@@ -220,13 +220,17 @@ Adrian. [Cooperation, Kin Selection and WEIRD Societies](/content/teaching/2025-
 </div>
 
 We look at an obvious mechanism to squeeze cooperation out: punishment.
-We learn about the dilemma of punishment and social norms.
+We learn about the dilemma of punishment and social norms, within the context 
+of public goods games.
 
 
 #### <i class="fas fa-tasks"></i> Reading
 
 Hoffman & Yoeli (2022), Chapter 11.
 
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+Adrian. [Cooperation, Public Goods Games and Punishment](/content/teaching/2025-ss-real-life-games/11-01-pggs.pdf).
 
 
 
@@ -241,13 +245,16 @@ Hoffman & Yoeli (2022), Chapter 11.
     July 14, 2025
 </div>
 
-We learn about costly signals and how it influences art, fashion and rap.
+We learn about costly signals and how signaling influences art, fashion and rap.
 
 #### <i class="fas fa-tasks"></i> Reading
 
 Hoffman & Yoeli (2022), Chapter 6.<br>
 Hoffman & Yoeli (2022), Chapter 7.
 
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+Adrian. [Costly Signaling](/content/teaching/2025-ss-real-life-games/12-01-signaling.pdf).
 
 
 

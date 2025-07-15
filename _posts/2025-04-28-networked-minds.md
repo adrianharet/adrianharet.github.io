@@ -216,6 +216,10 @@ Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: Fir
     July 14, 2025
 </div>
 
+Does knowing what other people think improve the quality of one's own opinion?
+Does discussion make groups wiser? 
+We read about some experimental results.
+
 #### <i class="fas fa-tasks"></i> Reading
 
 <i class="fas fa-tasks"></i>
@@ -223,6 +227,11 @@ Lorenz, J., Rauhut, H., Schweitzer, F., & Helbing, D. (2011). How social influen
 <br>
 <i class="fas fa-tasks"></i>
 Mercier, H., & Claidière, N. (2022). Does discussion make crowds any wiser? Cognition, 222, 104912.
+
+
+#### <i class="fa-solid fa-file-pdf"></i> Slides
+
+Adrian. [Communication and Wisdom](/content/teaching/2025-ss-networked-minds/12-01-discussion-wisdom.pdf).
 
 
 ## Week 13. Information Cascades and Polarization
