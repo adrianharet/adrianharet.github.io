@@ -201,10 +201,9 @@ We learn about the Hegselmann-Krause model.
 
 #### <i class="fas fa-tasks"></i> Reading
 
-<i class="fas fa-tasks"></i>
+
 Hegselmann, R., Krause, U., & Others. (2002). Opinion dynamics and bounded confidence models, analysis, and simulation. Journal of Artificial Societies and Social Simulation, 5(3).
 <br>
-<i class="fas fa-tasks"></i>
 Hegselmann, R., & Krause, U. (2006). Truth and Cognitive Division of Labour: First Steps Towards a Computer Aided Social Epistemology. Journal of Artificial Societies and Social Simulation, 9(3), 10.
 
 
