@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Adrian Haret # the main title
 
-tagline: Assistant Professor at LMU, Munich # it will display as the sub-title
+tagline: Postdoc at Royal Holloway, University of London # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Adrian's website
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Adrian Haret
-  email: example@domain.com # change to your email address
+  email: adrian.haret@rhul.ac.uk # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage

@@ -7,4 +7,4 @@ toc: false
 ---
 
 This is a talk in the Social Norms and Applications seminar at Royal Holloway, University of London.
-[[pdf](/content/talks/2023-03-17-wisdom-deliberating-crowds.pdf)]
+[[pdf](/content/talks/2026-03-17-wisdom-deliberating-crowds.pdf)]
